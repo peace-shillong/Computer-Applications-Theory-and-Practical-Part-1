@@ -1,0 +1,45 @@
+tree* delNode(tree* t,int x)
+{
+	tree *temp;
+	if(t==NULL)
+		return NULL;
+	else if(x<t->data)
+		t->left=delNode(t->left,x);
+	else if(x>t->data)
+		t->right=delNode(t->right,x);
+	else
+	{
+		if(t->left!=NULL && t->right!=NULL) 
+		{
+			/*
+				Condition (3)
+				Node t has left & right subtree
+				We perform replacement of value for such a case
+				Then delete the node used for replacement
+			*/
+			temp=findMin(t->right);
+			t->data=temp->data;
+			t->right=delNode(t->right,temp->data);
+		}
+		else 
+		{
+			/*
+				Condition (1) & (2)
+				t is either terminal node or t has left or right child
+				free the memory space occupied by t
+				Then assign to t the address to be returned to the parent
+				Two possibilities:
+					t=NULL, if terminal node Or t=address of left/right child
+				Here, we perform address replace not value
+			*/
+			temp=t;
+			if(t->left==NULL)
+				t=t->right;
+			else if(t->right==NULL)
+				t=t->left;
+			delete(temp);
+
+		}
+	}
+	return t;
+}

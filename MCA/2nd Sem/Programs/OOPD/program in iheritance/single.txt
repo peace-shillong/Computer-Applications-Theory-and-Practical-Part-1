@@ -1,0 +1,80 @@
+ALGORITHM:
+Step 1: Start the program.
+Step 2: Declare the base class emp.
+Step 3: Define and declare the function get() to get the employee details.
+Step 4: Declare the derived class salary.
+Step 5: Declare and define the function get1() to get the salary details.
+Step 6: Define the function calculate() to find the net pay.
+Step 7: Define the function display().
+Step 8: Create the derived class object.
+Step 9: Read the number of employees.
+Step 10: Call the function get(),get1() and calculate() to each employees.
+Step 11: Call the display().
+Step 12: Stop the program.
+
+PROGRAM:PAYROLL SYSTEM USING SINGLE INHERITANCE
+#include<iostream.h>
+#include<conio.h>
+ 
+class emp
+{
+   public:
+     int eno;
+     char name[20],des[20];
+     void get()
+     {
+              cout<<"Enter the employee number:";
+              cin>>eno;
+              cout<<"Enter the employee name:";
+              cin>>name;
+              cout<<"Enter the designation:";
+              cin>>des;
+     }
+};
+ 
+class salary:public emp
+{
+     float bp,hra,da,pf,np;
+   public:
+     void get1()
+     {             
+              cout<<"Enter the basic pay:";
+              cin>>bp;
+              cout<<"Enter the Humen Resource Allowance:";
+              cin>>hra;
+              cout<<"Enter the Dearness Allowance :";
+              cin>>da;
+              cout<<"Enter the Profitablity Fund:";
+              cin>>pf;
+     }
+     void calculate()
+     {
+              np=bp+hra+da-pf;
+     }
+     void display()
+     {
+              cout<<eno<<"\t"<<name<<"\t"<<des<<"\t"<<bp<<"\t"<<hra<<"\t"<<da<<"\t"<<pf<<"\t"<<np<<"\n";
+     }
+};
+ 
+void main()
+{
+    int i,n;
+    char ch;
+    salary s[10];
+    clrscr();
+    cout<<"Enter the number of employee:";
+    cin>>n;
+    for(i=0;i<n;i++)
+    {
+              s[i].get();
+              s[i].get1();
+              s[i].calculate();
+    }
+    cout<<"\ne_no \t e_name\t des \t bp \t hra \t da \t pf \t np \n";
+    for(i=0;i<n;i++)
+    {
+              s[i].display();
+    }
+    getch();
+}

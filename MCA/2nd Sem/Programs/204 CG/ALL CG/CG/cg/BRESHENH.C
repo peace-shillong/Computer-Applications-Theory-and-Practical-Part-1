@@ -1,0 +1,197 @@
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<math.h>
+#include<graphics.h>
+int main(){
+	int gd=DETECT,gm;
+	float m,p,x1,y1,x2,y2,xcur,ycur,delx,dely;
+	clrscr();
+	printf("\nEnter the first coordinates: ");
+	scanf("%f %f",&x1,&y1);
+	printf("\nEnter the second coordinates: ");
+	scanf("%f %f",&x2,&y2);
+	initgraph(&gd,&gm,"c:\\tc\\bgi");
+	if(x1<0 || x2<0 || y1<0 || y2<0 || x1>getmaxx() || x2>getmaxx() || y1>getmaxy() || y2>getmaxy())
+	{
+		printf("\nCoordinate value(s) out of bound");
+		getch();
+		exit(0);
+	}
+	xcur=x1;
+	ycur=y1;
+	if(x1==x2)
+	{
+		if(y1<=y2)
+		{
+			while(ycur<=y2)
+			{
+				putpixel(xcur,ycur,WHITE);
+				ycur++;
+			}
+		}
+		else
+		{
+			while(ycur>=y2)
+			{
+				putpixel(xcur,ycur,WHITE);
+				ycur--;
+			}
+		}
+	}
+	else if(y1==y2)
+	{
+		if(x1<=x2)
+		{
+			while(xcur<=x2)
+			{
+				putpixel(xcur,ycur,WHITE);
+				xcur++;
+			}
+		}
+		else
+		{
+			while(xcur>=x2)
+			{
+				putpixel(xcur,ycur,WHITE);
+				xcur--;
+			}
+		}
+
+	}
+	else if(x1==y1 && x2==y2)
+	{
+		if(x1<x2)
+		{
+			while(xcur<=x2)
+			{
+				putpixel(xcur,ycur,WHITE);
+				xcur++;
+				ycur++;
+			}
+		}
+		else
+		{
+			while(xcur>=x2)
+			{
+				putpixel(xcur,ycur,WHITE);
+				xcur--;
+				ycur--;
+			}
+		}
+	}
+	else
+	{
+		delx=abs(x2-x1);
+		dely=abs(y2-y1);
+		m=dely/delx;
+		if(m<=1)
+		{
+			p=2*dely-delx;
+			if(x1<x2)
+			{
+				while(xcur<=x2)
+				{
+					putpixel(xcur,ycur,WHITE);
+					if(p>=0)
+					{
+						if(y1<y2)
+						{
+							ycur=ycur+1;
+						}
+						else
+						{
+							ycur=ycur-1;
+						}
+						p=p+2*dely-2*delx;
+					}
+					else
+					{
+						p=p+2*dely;
+					}
+					xcur++;
+				}
+			}
+			else
+			{
+				while(xcur>=x2)
+				{
+
+					putpixel(xcur,ycur,WHITE);
+					if(p>=0)
+					{
+						if(y1<y2)
+						{
+							ycur=ycur+1;
+						}
+						else
+						{
+							ycur=ycur-1;
+						}
+						p=p+2*dely-2*delx;
+					}
+					else
+					{
+						p=p+2*dely;
+					}
+					xcur--;
+				}
+			}
+		}
+		else
+		{
+			p=2*delx-dely;
+			if(y1<y2)
+			{
+				while(ycur<=y2)
+				{
+					putpixel(xcur,ycur,WHITE);
+					if(p>=0)
+					{
+						if(x1<x2)
+						{
+							xcur=xcur+1;
+						}
+						else
+						{
+							xcur=xcur-1;
+						}
+						p=p+2*delx-2*dely;
+					}
+					else
+					{
+						p=p+2*delx;
+					}
+					ycur++;
+				}
+			}
+			else
+			{
+				while(ycur>=y2)
+				{
+					putpixel(xcur,ycur,WHITE);
+					if(p>=0)
+					{
+						if(x1<x2)
+						{
+							xcur=xcur+1;
+						}
+						else
+						{
+							xcur=xcur-1;
+						}
+						p=p+2*delx-2*dely;
+					}
+					else
+					{
+						p=p+2*delx;
+					}
+					ycur--;
+				}
+			}
+		}
+	}
+	getch();
+	closegraph();
+	return 0;
+}

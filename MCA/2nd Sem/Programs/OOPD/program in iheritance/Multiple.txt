@@ -1,0 +1,73 @@
+ALGORITHM:
+Step 1: Start the program.
+Step 2: Declare the base class student.
+Step 3: Declare and define the function get() to get the student details.
+Step 4: Declare the other class sports.
+Step 5: Declare and define the function getsm() to read the sports mark.
+Step 6: Create the class statement derived from student and sports.
+Step 7: Declare and define the function display() to find out the total and average.
+Step 8: Declare the derived class object,call the functions get(),getsm() and display().
+Step 9: Stop the program.
+PROGRAM:
+#include<iostream.h>
+#include<conio.h>
+ 
+class student
+{
+    protected:
+       int rno,m1,m2;
+    public:
+                void get()
+              {
+                            cout<<"Enter the Roll no :";
+                            cin>>rno;
+                            cout<<"Enter the two marks   :";
+                            cin>>m1>>m2;
+              }
+};
+class sports
+{
+    protected:
+       int sm;                   // sm = Sports mark
+    public:
+                void getsm()
+              {
+                 cout<<"\nEnter the sports mark :";
+                 cin>>sm;
+ 
+              }
+};
+class statement:public student,public sports
+{
+    int tot,avg;
+    public:
+    void display()
+              {
+                 tot=(m1+m2+sm);
+                 avg=tot/3;
+                 cout<<"\n\n\tRoll No    : "<<rno<<"\n\tTotal      : "<<tot;
+               cout<<"\n\tAverage    : "<<avg;
+              }
+};
+void main()
+{
+   clrscr();
+   statement obj;
+   obj.get();
+   obj.getsm();
+   obj.display();
+   getch();
+}
+Output:
+              Enter the Roll no: 100
+ 
+              Enter two marks
+             
+              90
+              80
+ 
+              Enter the Sports Mark: 90
+ 
+              Roll No: 100
+              Total    : 260
+              Average: 86.66

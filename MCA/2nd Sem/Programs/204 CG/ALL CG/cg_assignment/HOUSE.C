@@ -1,0 +1,182 @@
+
+#include<stdio.h>
+#include<conio.h>
+#include<graphics.h>
+void ddaline(float,float,float,float);
+void main()
+{
+	int gd=DETECT,gm;
+	int i,j;
+	initgraph(&gd,&gm,"c:\\tc\\bgi");
+	ddaline(180,160,300,160);
+	ddaline(300,160,330,210);
+	ddaline(220,210,330,210);
+	ddaline(140,210,220,210);
+	ddaline(180,160,140,210);
+	ddaline(180,160,220,210);
+	ddaline(140,210,140,290);
+	ddaline(220,210,220,290);
+	ddaline(330,210,330,290);
+	ddaline(140,290,220,290);
+	ddaline(220,290,330,290);
+	ddaline(170,240,190,240);
+	ddaline(190,240,190,290);
+	ddaline(170,240,170,290);
+	ddaline(270,220,270,260);
+	ddaline(270,260,300,260);
+	ddaline(300,220,300,260);
+	ddaline(270,220,300,220);
+	ddaline(330,255,420,255);
+	ddaline(420,255,360,360);
+	ddaline(360,360,240,360);
+	ddaline(30,360,170,360);
+	ddaline(100,255,30,360);
+	ddaline(100,255,140,255);
+	//chimney
+	ddaline(280,140,280,160);
+	ddaline(260,140,260,160);
+	ddaline(270,120,260,140);
+	ddaline(270,120,280,140);
+	//ddaline(200,330,170,350);
+	//ddaline(200,330,220,350);
+	ddaline(170,350,170,380);
+	ddaline(240,350,240,380);
+
+
+	//tree
+	/*ddaline(80,40,50,100);
+	ddaline(80,40,110,100);
+	ddaline(50,100,110,100);
+	ddaline(70,100,70,160);
+	ddaline(90,100,90,160);
+	ddaline(80,40,60,100);
+	ddaline(80,40,70,100);
+	ddaline(80,40,80,100);
+	ddaline(80,40,90,100);
+	ddaline(80,40,100,100);*/
+
+
+	for(i=270;i<366;i=i+15)
+	{
+		ddaline(i,353,i,367);
+	}
+	for(i=30;i<160;i=i+15)
+	{
+		ddaline(i,353,i,367);
+	}
+	for(i=420;i>330;i=i-15)
+	{
+		ddaline(i,248,i,262);
+	}
+	for(i=100;i<140;i=i+15)
+	{
+		ddaline(i,248,i,262);
+	}
+	for(i=360,j=360;i<420,j>255;i=i+9,j=j-15)
+	{
+		ddaline(i,j+7,i,j-7);
+	}
+	for(i=30,j=360;i<100,j>255;i=i+10,j=j-15)
+	{
+		ddaline(i,j+7,i,j-7);
+	}
+	getch();
+	closegraph();
+}
+void ddaline(float x1,float y1,float x2,float y2)
+{
+
+	float m,mh,xcur,ycur;
+	if(x1<0 || x2<0 || y1<0 || y2<0 || x1>getmaxx() || x2>getmaxx() || y1>getmaxy() || y2>getmaxy())
+	{
+		printf("\nCoordinate value(s) out of bound");
+		getch();
+		exit(0);
+	}
+	xcur=x1;
+	ycur=y1;
+	if(x1==x2)
+	{
+		if(y1<=y2)
+		{
+			while(ycur<=y2)
+			{
+				putpixel(xcur,ycur,WHITE);
+				ycur++;
+			}
+		}
+		else
+		{
+			while(ycur>=y2)
+			{
+				putpixel(xcur,ycur,WHITE);
+				ycur--;
+			}
+		}
+	}else if(y1==y2)
+	{
+		if(x1<=x2)
+		{
+			while(xcur<=x2)
+			{
+				putpixel(xcur,ycur,WHITE);
+				xcur++;
+			}
+		}
+		else
+		{
+			while(xcur>=x2)
+			{
+				putpixel(xcur,ycur,WHITE);
+				xcur--;
+			}
+		}
+
+	}
+	else
+	{
+		m=(y2-y1)/(x2-x1);
+		//printf("\n\n%f",m);
+		if(m<=1)
+		{
+			if(x1<x2)
+			{
+				while(xcur<=x2)
+				{
+					putpixel(xcur,ycur,WHITE);
+					ycur=ycur+m;
+					xcur++;
+				}
+			}
+			else
+			{
+				while(xcur>=x2)
+				{
+					putpixel(xcur,ycur,WHITE);
+					ycur=ycur-m;
+					xcur--;
+				}
+			}
+		}else{
+			mh=1/m;
+			if(y1<y2)
+			{
+				while(ycur<=y2)
+				{
+					putpixel(xcur,ycur,WHITE);
+					xcur=xcur+mh;
+					ycur++;
+				}
+			}
+			else
+			{
+				while(ycur>=y2)
+				{
+					putpixel(xcur,ycur,WHITE);
+					xcur=xcur-mh;
+					ycur--;
+				}
+			}
+		}
+	}
+}

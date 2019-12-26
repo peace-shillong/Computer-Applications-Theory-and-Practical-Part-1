@@ -1,0 +1,26 @@
+Syntax of Hierarchical Inheritance
+
+class base_classname
+{
+    properties;
+    methods;
+};
+
+class derived_class1:visibility_mode base_classname
+{
+    properties;
+    methods;
+};
+
+class derived_class2:visibility_mode base_classname
+{
+    properties;
+    methods;
+};
+... ... ...
+... ... ...
+class derived_classN:visibility_mode base_classname
+{
+    properties;
+    methods;
+};

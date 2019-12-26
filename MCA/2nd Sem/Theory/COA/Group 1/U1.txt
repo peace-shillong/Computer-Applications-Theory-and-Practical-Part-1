@@ -1,0 +1,42 @@
+COA 
+
+COMPUTERS are built using logic circuits that operate on information by two-valued signals labeled- 1 and 0 and these values are called bit - binary digit.
+The most natural way to represent a number in a computer system is by a string of bits, called binary number.
+A text character can also be represent is by a string of bits, called character code.
+
+
+Consider an n-bit vector 
+	B = bn-1 bn-2 ... b1 b0
+where bi=0 or 1 for 0<= i <= n-1.
+This vector can represent unsigned integer values V in the range 0-2n-1
+V(B)= bn-1 * 2^n-1 + ... + b1 * 2^1+b0*2^0
+
+We have to represent positive and negative numbers.
+Three Systems Are used for representing such numbers:
+1
+2
+3
+
+In All three systems, the leftmost bit is 0 for positive numbers and 1 for negative numbers.
+Positive values have identical representations in all systems, but negative values have different represention.
+In sign-magnitude representation  -ve values are represented by changing the most significant bit (leftmost) from 0 to 1 of the +ve value.
+IN 1's Complement representation, -ve values are obtained by complementing each bit of the corresponding +ve no.
+Thus -3 (3 - 0011) is 1100. similarly we can convert -ve values to +ve values by complementing the -v
+e .
+1's Complement : 2^n-1 1111 - 0011.
+2's Complement : 1's Complement + 1.
+
+0000 1000 
+1111+1
+10000
+
+sign-mag and 1's Complement are natural comfortable easy for us.
+2's Complement yields/gives us the most efficient way  to carry out addition and subtraction. use in PC
+
+
+Binary Arithmetic Holds
+1+1 = 10 0+0=0 1+0=1
+
+
+
+

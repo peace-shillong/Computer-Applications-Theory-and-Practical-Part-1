@@ -1,0 +1,182 @@
+#include<stdio.h>
+#include<conio.h>
+#include<graphics.h>
+void ddaline(float,float,float,float);
+void clockcircle(float xc,float yc,float r);
+void main()
+{
+	int gd=DETECT,gm;
+	int i;
+	initgraph(&gd,&gm,"c:\\tc\\bgi");
+	clockcircle(300,150,100);
+	clockcircle(300,150,101);
+	clockcircle(300,150,102);
+	clockcircle(300,150,1);
+	clockcircle(300,150,2);
+	clockcircle(300,150,3);
+	clockcircle(300,150,0);
+
+	ddaline(300,150,300,70);
+	ddaline(300,150,360,150);
+	ddaline(300,30,190,80);
+	ddaline(300,30,410,80);
+	ddaline(190,80,190,240);
+	ddaline(410,80,410,240);
+	ddaline(190,240,300,270);
+	ddaline(410,240,300,270);
+	ddaline(240,255,240,370);
+	ddaline(360,255,360,370);
+	ddaline(240,370,300,430);
+	ddaline(360,370,300,430);
+	ddaline(300,270,300,350);
+	ddaline(298,267,298,351);
+	ddaline(302,267,302,351);
+	clockcircle(300,370,20);
+	//
+	ddaline(194,90,194,225);
+	ddaline(198,90,198,225);
+	ddaline(402,90,402,225);
+	ddaline(406,90,406,225);
+	clockcircle(196,83,2);
+	clockcircle(196,230,2);
+	clockcircle(404,83,2);
+	clockcircle(404,230,2);
+	ddaline(300,54,300,62);
+	for(i=390;i<=396;i=i+3)
+	      ddaline(i,146,i,154);
+	ddaline(204,146,204,154);
+	ddaline(207,146,212,154);
+	ddaline(212,146,207,154);
+	ddaline(294,236,298,244);
+	ddaline(298,244,302,236);
+	ddaline(305,236,305,244);
+	getch();
+	closegraph();
+}
+void clockcircle(float xc,float yc,float r)
+{
+	float xcur,ycur,p;
+	xcur=0;
+	ycur=r;
+	putpixel(xcur+xc,ycur+yc,WHITE);
+	p=(xcur+1)*(xcur+1)+(ycur-0.5)*(ycur-0.5)-(r*r);
+	while(xcur<=ycur && r>0)
+	{
+		if(p>=0)
+		{
+			p=p+2*xcur-2*ycur+5;
+			ycur=ycur-1;
+		}
+		else
+		{
+			p=p+2*xcur+3;
+		}
+		xcur=xcur+1;
+		putpixel(xcur+xc,ycur+yc,WHITE);
+		putpixel(-xcur+xc,-ycur+yc,WHITE);
+		putpixel(-xcur+xc,ycur+yc,WHITE);
+		putpixel(xcur+xc,-ycur+yc,WHITE);
+		putpixel(-ycur+xc,xcur+yc,WHITE);
+		putpixel(ycur+xc,xcur+yc,WHITE);
+		putpixel(ycur+xc,-xcur+yc,WHITE);
+		putpixel(-ycur+xc,-xcur+yc,WHITE);
+
+	}
+}
+void ddaline(float x1,float y1,float x2,float y2)
+{
+
+	float m,mh,xcur,ycur;
+	if(x1<0 || x2<0 || y1<0 || y2<0 || x1>getmaxx() || x2>getmaxx() || y1>getmaxy() || y2>getmaxy())
+	{
+		printf("\nCoordinate value(s) out of bound");
+		getch();
+		exit(0);
+	}
+	xcur=x1;
+	ycur=y1;
+	if(x1==x2)
+	{
+		if(y1<=y2)
+		{
+			while(ycur<=y2)
+			{
+				putpixel(xcur,ycur,RED);
+				ycur++;
+			}
+		}
+		else
+		{
+			while(ycur>=y2)
+			{
+				putpixel(xcur,ycur,RED);
+				ycur--;
+			}
+		}
+	}else if(y1==y2)
+	{
+		if(x1<=x2)
+		{
+			while(xcur<=x2)
+			{
+				putpixel(xcur,ycur,RED);
+				xcur++;
+			}
+		}
+		else
+		{
+			while(xcur>=x2)
+			{
+				putpixel(xcur,ycur,RED);
+				xcur--;
+			}
+		}
+
+	}
+	else
+	{
+		m=(y2-y1)/(x2-x1);
+		//printf("\n\n%f",m);
+		if(m<=1)
+		{
+			if(x1<x2)
+			{
+				while(xcur<=x2)
+				{
+					putpixel(xcur,ycur,RED);
+					ycur=ycur+m;
+					xcur++;
+				}
+			}
+			else
+			{
+				while(xcur>=x2)
+				{
+					putpixel(xcur,ycur,WHITE);
+					ycur=ycur-m;
+					xcur--;
+				}
+			}
+		}else{
+			mh=1/m;
+			if(y1<y2)
+			{
+				while(ycur<=y2)
+				{
+					putpixel(xcur,ycur,RED);
+					xcur=xcur+mh;
+					ycur++;
+				}
+			}
+			else
+			{
+				while(ycur>=y2)
+				{
+					putpixel(xcur,ycur,RED);
+					xcur=xcur-mh;
+					ycur--;
+				}
+			}
+		}
+	}
+}

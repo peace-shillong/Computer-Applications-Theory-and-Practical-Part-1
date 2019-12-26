@@ -1,0 +1,2156 @@
+From: <Saved by Windows Internet Explorer 7>
+Subject: Digital differential analyzer (graphics algorithm) - Wikipedia, the free encyclopedia
+Date: Tue, 10 Mar 2015 14:48:28 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0069_01D05B41.4549CA10"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0069_01D05B41.4549CA10
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML class=3Dclient-nojs lang=3Den dir=3Dltr><HEAD><TITLE>Digital =
+differential analyzer (graphics algorithm) - Wikipedia, the free =
+encyclopedia</TITLE>
+<META charset=3DUTF-8>
+<META content=3D"MSHTML 6.00.5730.13" name=3DGENERATOR><LINK=20
+href=3D"android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Digital_=
+differential_analyzer_(graphics_algorithm)"=20
+rel=3Dalternate><LINK title=3D"Edit this page"=20
+href=3D"/w/index.php?title=3DDigital_differential_analyzer_(graphics_algo=
+rithm)&amp;action=3Dedit"=20
+type=3Dapplication/x-wiki rel=3Dalternate><LINK title=3D"Edit this page" =
+
+href=3D"/w/index.php?title=3DDigital_differential_analyzer_(graphics_algo=
+rithm)&amp;action=3Dedit"=20
+rel=3Dedit><LINK href=3D"//bits.wikimedia.org/apple-touch/wikipedia.png" =
+
+rel=3Dapple-touch-icon><LINK =
+href=3D"//bits.wikimedia.org/favicon/wikipedia.ico"=20
+rel=3D"shortcut icon"><LINK title=3D"Wikipedia (en)" =
+href=3D"/w/opensearch_desc.php"=20
+type=3Dapplication/opensearchdescription+xml rel=3Dsearch><LINK=20
+href=3D"//en.wikipedia.org/w/api.php?action=3Drsd" =
+type=3Dapplication/rsd+xml=20
+rel=3DEditURI><LINK hreflang=3Dx-default=20
+href=3D"/wiki/Digital_differential_analyzer_(graphics_algorithm)"=20
+rel=3Dalternate><LINK href=3D"//creativecommons.org/licenses/by-sa/3.0/" =
+
+rel=3Dcopyright><LINK title=3D"Wikipedia Atom feed"=20
+href=3D"/w/index.php?title=3DSpecial:RecentChanges&amp;feed=3Datom"=20
+type=3Dapplication/atom+xml rel=3Dalternate><LINK=20
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)"=20
+rel=3Dcanonical><LINK=20
+href=3D"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=3Dfalse&amp;=
+lang=3Den&amp;modules=3Dext.gadget.DRN-wizard%2CReferenceTooltips%2Cchari=
+nsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.=
+math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Ce=
+xt.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7C=
+mediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.but=
+ton%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=3Dstyles&amp;sk=
+in=3Dvector&amp;*"=20
+rel=3Dstylesheet>
+<META content=3D"" name=3DResourceLoaderDynamicStyles><LINK=20
+href=3D"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=3Dfalse&amp;=
+lang=3Den&amp;modules=3Dsite&amp;only=3Dstyles&amp;skin=3Dvector&amp;*"=20
+rel=3Dstylesheet>
+<STYLE>UNKNOWN {
+	TEXT-DECORATION: none
+}
+</STYLE>
+
+<SCRIPT=20
+src=3D"http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=3Dfalse&=
+amp;lang=3Den&amp;modules=3Dstartup&amp;only=3Dscripts&amp;skin=3Dvector&=
+amp;*"></SCRIPT>
+
+<SCRIPT>if(window.mw){=0A=
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":fal=
+se,"wgNamespaceNumber":0,"wgPageName":"Digital_differential_analyzer_(gra=
+phics_algorithm)","wgTitle":"Digital differential analyzer (graphics =
+algorithm)","wgCurRevisionId":646612452,"wgRevisionId":646612452,"wgArtic=
+leId":12767224,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view",=
+"wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking =
+in-text citations from June 2011","All articles lacking in-text =
+citations","Computer graphics algorithms","Digital geometry","Articles =
+with example C =
+code"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentM=
+odel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTab=
+le":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","Feb=
+ruary","March","April","May","June","July","August","September","October"=
+,"November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","=
+May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dig=
+ital_differential_analyzer_(graphics_algorithm)","wgRelevantArticleId":12=
+767224,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionM=
+ove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hide=
+sig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"w=
+gMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualE=
+ditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipi=
+ent":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList=
+":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"=
+tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevision=
+Id":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":=
+20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia=
+","wgWikibaseItemId":"Q2247908"});=0A=
+}</SCRIPT>
+
+<SCRIPT>if(window.mw){=0A=
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set=
+({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function=
+($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","wat=
+chToken":"+\\"});},{},{},{});=0A=
+/* cache key: =
+enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369=
+ */=0A=
+}</SCRIPT>
+
+<SCRIPT>if(window.mw){=0A=
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","med=
+iawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.im=
+ageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","e=
+xt.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]=
+);=0A=
+}</SCRIPT>
+<LINK href=3D"//meta.wikimedia.org" rel=3Ddns-prefetch><!--[if lt IE =
+7]><style =
+type=3D"text/css">body{behavior:url("/w/static-1.25wmf19/skins/Vector/css=
+hover.min.htc")}</style><![endif]--></HEAD>
+<BODY=20
+class=3D"mediawiki ltr sitedir-ltr ns-0 ns-subject =
+page-Digital_differential_analyzer_graphics_algorithm skin-vector =
+action-view">
+<DIV class=3Dnoprint id=3Dmw-page-base></DIV>
+<DIV class=3Dnoprint id=3Dmw-head-base></DIV>
+<DIV class=3Dmw-body id=3Dcontent role=3D"main"><A id=3Dtop></A>
+<DIV id=3DsiteNotice><!-- CentralNotice --></DIV>
+<DIV class=3Dmw-indicators></DIV>
+<H1 class=3DfirstHeading lang=3Den id=3DfirstHeading>Digital =
+differential analyzer=20
+(graphics algorithm)</H1>
+<DIV class=3Dmw-body-content id=3DbodyContent>
+<DIV id=3DsiteSub>From Wikipedia, the free encyclopedia</DIV>
+<DIV id=3DcontentSub></DIV>
+<DIV class=3Dmw-jump id=3Djump-to-nav>Jump to: <A=20
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)#mw-head">navigation</A>,=20
+<A=20
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)#p-search">search</A>=20
+</DIV>
+<DIV class=3Dmw-content-ltr lang=3Den id=3Dmw-content-text dir=3Dltr>
+<DIV class=3Dhatnote>This article is about a graphics algorithm. For the =
+digital=20
+implementation of a differential analyzer, see <A=20
+title=3D"Digital differential analyzer"=20
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer">Digit=
+al=20
+differential analyzer</A>.</DIV>
+<P>In <A title=3D"Computer graphics"=20
+href=3D"http://en.wikipedia.org/wiki/Computer_graphics">computer =
+graphics</A>, a=20
+<B><A title=3D"Digital differential analyzer"=20
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer">digit=
+al=20
+differential analyzer</A></B> (<B>DDA</B>) is hardware or software used =
+for <A=20
+title=3D"Linear interpolation"=20
+href=3D"http://en.wikipedia.org/wiki/Linear_interpolation">linear=20
+interpolation</A> of <A title=3D"Variable (computer science)"=20
+href=3D"http://en.wikipedia.org/wiki/Variable_(computer_science)">variabl=
+es</A>=20
+over an <A title=3D"Interval (mathematics)"=20
+href=3D"http://en.wikipedia.org/wiki/Interval_(mathematics)">interval</A>=
+ between=20
+start and end point. DDAs are used for <A class=3Dmw-redirect =
+title=3DRasterization=20
+href=3D"http://en.wikipedia.org/wiki/Rasterization">rasterization</A> of =
+lines,=20
+triangles and polygons. In its simplest implementation, the DDA =
+algorithm=20
+interpolates values in interval by computing for each x<SUB>i</SUB> the=20
+equations x<SUB>i</SUB> =3D x<SUB>i=E2=88=921</SUB>+1/m, y<SUB>i</SUB> =
+=3D y<SUB>i=E2=88=921</SUB> +=20
+m, where =CE=94x =3D x<SUB>end</SUB> =E2=88=92 x<SUB>start</SUB> and =
+=CE=94y =3D y<SUB>end</SUB> =E2=88=92=20
+y<SUB>start</SUB> and m =3D =CE=94y/=CE=94x</P>
+<P></P>
+<DIV class=3Dtoc id=3Dtoc>
+<DIV id=3Dtoctitle>
+<H2>Contents</H2></DIV>
+<UL>
+  <LI class=3D"toclevel-1 tocsection-1"><A=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)#Performance"><SPAN=20
+  class=3Dtocnumber>1</SPAN> <SPAN =
+class=3Dtoctext>Performance</SPAN></A>=20
+  <LI class=3D"toclevel-1 tocsection-2"><A=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)#Algorithm"><SPAN=20
+  class=3Dtocnumber>2</SPAN> <SPAN class=3Dtoctext>Algorithm</SPAN></A>=20
+  <LI class=3D"toclevel-1 tocsection-3"><A=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)#See_also"><SPAN=20
+  class=3Dtocnumber>3</SPAN> <SPAN class=3Dtoctext>See also</SPAN></A>=20
+  <LI class=3D"toclevel-1 tocsection-4"><A=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)#References"><SPAN=20
+  class=3Dtocnumber>4</SPAN> <SPAN class=3Dtoctext>References</SPAN></A> =
+
+</LI></UL></DIV>
+<P></P>
+<H2><SPAN class=3Dmw-headline id=3DPerformance>Performance</SPAN><SPAN=20
+class=3Dmw-editsection><SPAN class=3Dmw-editsection-bracket>[</SPAN><A=20
+title=3D"Edit section: Performance"=20
+href=3D"http://en.wikipedia.org/w/index.php?title=3DDigital_differential_=
+analyzer_(graphics_algorithm)&amp;action=3Dedit&amp;section=3D1">edit</A>=
+<SPAN=20
+class=3Dmw-editsection-bracket>]</SPAN></SPAN></H2>
+<P>The DDA method can be implemented using <A class=3Dmw-redirect=20
+title=3DFloating-point=20
+href=3D"http://en.wikipedia.org/wiki/Floating-point">floating-point</A> =
+or <A=20
+title=3DInteger =
+href=3D"http://en.wikipedia.org/wiki/Integer">integer</A>=20
+arithmetic. The native floating-point implementation requires one =
+addition and=20
+one rounding operation per interpolated value (e.g. coordinate x, y, =
+depth,=20
+color component etc.) and output result. This process is only efficient =
+when an=20
+<A title=3D"Floating-point unit"=20
+href=3D"http://en.wikipedia.org/wiki/Floating-point_unit">FPU</A> with =
+fast add=20
+and rounding operation is available.</P>
+<P>The <A title=3D"Fixed-point arithmetic"=20
+href=3D"http://en.wikipedia.org/wiki/Fixed-point_arithmetic">fixed-point<=
+/A>=20
+integer operation requires two additions per output cycle, and in case =
+of=20
+fractional part overflow, one additional increment and subtraction. The=20
+probability of fractional part overflows is proportional to the ratio m =
+of the=20
+interpolated start/end values.</P>
+<P>DDAs are well suited for hardware implementation and can be pipelined =
+for=20
+maximized throughput.</P>
+<P>This slope can be expressed in DDA as</P>
+<DL>
+  <DD><IMG class=3D"mwe-math-fallback-image-inline tex"=20
+  alt=3D"m =3D \frac{y_{end} -y_{start}}{x_{end}-x_{start}}"=20
+  =
+src=3D"http://upload.wikimedia.org/math/b/8/b/b8b5711cae64e53fc8ab5df97f1=
+4bb27.png">=20
+  </DD></DL>
+<P>where <I>m</I> represents the slope of the line and <I>c</I> is the y =
+
+intercept. In fact any two consecutive point(x,y) lying on this line =
+segment=20
+should satisfy the equation.</P>
+<H2><SPAN class=3Dmw-headline id=3DAlgorithm>Algorithm</SPAN><SPAN=20
+class=3Dmw-editsection><SPAN class=3Dmw-editsection-bracket>[</SPAN><A=20
+title=3D"Edit section: Algorithm"=20
+href=3D"http://en.wikipedia.org/w/index.php?title=3DDigital_differential_=
+analyzer_(graphics_algorithm)&amp;action=3Dedit&amp;section=3D2">edit</A>=
+<SPAN=20
+class=3Dmw-editsection-bracket>]</SPAN></SPAN></H2>
+<P>The DDA starts by calculating the smaller of dy or dx for a unit =
+increment of=20
+the other. A line is then sampled at unit intervals in one coordinate =
+and=20
+corresponding integer values nearest the line path are determined for =
+the other=20
+coordinate.</P>
+<P>Considering a line with positive slope, if the slope is less than or =
+equal to=20
+1, we sample at unit x intervals (dx=3D1) and compute successive y =
+values as</P>
+<DL>
+  <DD><IMG class=3D"mwe-math-fallback-image-inline tex" alt=3D"y_{k+1} =
+=3D y_k + m"=20
+  =
+src=3D"http://upload.wikimedia.org/math/3/9/c/39c5a9596688e7c1e3f0bdb70c7=
+c4f00.png">=20
+  </DD></DL>
+<P>Subscript k takes integer values starting from 0, for the 1st point =
+and=20
+increases by 1 until endpoint is reached. y value is rounded off to =
+nearest=20
+integer to correspond to a screen pixel.</P>
+<P>For lines with slope greater than 1, we reverse the role of x and y =
+i.e. we=20
+sample at dy=3D1 and calculate consecutive x values as</P>
+<DL>
+  <DD><IMG class=3D"mwe-math-fallback-image-inline tex"=20
+  alt=3D"x_{k+1} =3D x_k + \frac{1}{m}"=20
+  =
+src=3D"http://upload.wikimedia.org/math/9/c/8/9c83e61e1e43d675a72aaa91871=
+d8514.png">=20
+  </DD></DL>
+<P>Similar calculations are carried out to determine pixel positions =
+along a=20
+line with negative slope. Thus, if the absolute value of the slope is =
+less than=20
+1, we set dx=3D1 if <IMG class=3D"mwe-math-fallback-image-inline tex"=20
+alt=3D" x_{start}<x_{end}"=20
+src=3D"http://upload.wikimedia.org/math/5/0/5/5053bcc0efcddb74315daa3c546=
+a9fb6.png">=20
+i.e. the starting extreme point is at the left.</P>
+<H2><SPAN class=3Dmw-headline id=3DSee_also>See also</SPAN><SPAN=20
+class=3Dmw-editsection><SPAN class=3Dmw-editsection-bracket>[</SPAN><A=20
+title=3D"Edit section: See also"=20
+href=3D"http://en.wikipedia.org/w/index.php?title=3DDigital_differential_=
+analyzer_(graphics_algorithm)&amp;action=3Dedit&amp;section=3D3">edit</A>=
+<SPAN=20
+class=3Dmw-editsection-bracket>]</SPAN></SPAN></H2>
+<UL>
+  <LI><A title=3D"Bresenham's line algorithm"=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm">Bresen=
+ham's=20
+  line algorithm</A> is an algorithm for line rendering.=20
+  <LI><A title=3D"Xiaolin Wu's line algorithm"=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Xiaolin_Wu%27s_line_algorithm">Xiaol=
+in Wu's=20
+  line algorithm</A> is an algorithm for line anti-aliasing </LI></UL>
+<H2><SPAN class=3Dmw-headline id=3DReferences>References</SPAN><SPAN=20
+class=3Dmw-editsection><SPAN class=3Dmw-editsection-bracket>[</SPAN><A=20
+title=3D"Edit section: References"=20
+href=3D"http://en.wikipedia.org/w/index.php?title=3DDigital_differential_=
+analyzer_(graphics_algorithm)&amp;action=3Dedit&amp;section=3D4">edit</A>=
+<SPAN=20
+class=3Dmw-editsection-bracket>]</SPAN></SPAN></H2>
+<TABLE class=3D"metadata plainlinks ambox ambox-style =
+ambox-No_footnotes"=20
+role=3D"presentation">
+  <TBODY>
+  <TR>
+    <TD class=3Dmbox-image>
+      <DIV style=3D"WIDTH: 52px"><IMG height=3D40 alt=3D""=20
+      =
+src=3D"http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_docu=
+ment_with_red_question_mark.svg/40px-Text_document_with_red_question_mark=
+.svg.png"=20
+      width=3D40 data-file-height=3D"48" data-file-width=3D"48"=20
+      =
+srcset=3D"//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_docume=
+nt_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.s=
+vg.png 1.5x, =
+//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_re=
+d_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png =
+2x"></DIV></TD>
+    <TD class=3Dmbox-text><SPAN class=3Dmbox-text-span>This article =
+includes a <A=20
+      title=3D"Wikipedia:Citing sources"=20
+      =
+href=3D"http://en.wikipedia.org/wiki/Wikipedia:Citing_sources">list of=20
+      references</A>, related reading or <A title=3D"Wikipedia:External =
+links"=20
+      =
+href=3D"http://en.wikipedia.org/wiki/Wikipedia:External_links">external=20
+      links</A>, but <B>its sources remain unclear because it lacks <A=20
+      title=3D"Wikipedia:Citing sources"=20
+      =
+href=3D"http://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_cita=
+tions">inline=20
+      citations</A></B>. <SPAN class=3Dhide-when-compact>Please <A=20
+      title=3D"Wikipedia:WikiProject Fact and Reference Check"=20
+      =
+href=3D"http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Fact_and_Refer=
+ence_Check">improve</A>=20
+      this article by introducing more precise citations.</SPAN> =
+<SMALL><I>(June=20
+      2011)</I></SMALL></SPAN></TD></TR></TBODY></TABLE>
+<UL>
+  <LI>Alan Watt: <I>3D Computer Graphics</I>, 3rd edition 2000, =
+p.&nbsp;184=20
+  (Rasterizing edges). <A class=3D"internal mw-magiclink-isbn"=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Special:BookSources/0201398559">ISBN=
+=20
+  0-201-39855-9</A> </LI></UL><!-- =0A=
+NewPP limit report=0A=
+Parsed by mw1191=0A=
+CPU time usage: 0.121 seconds=0A=
+Real time usage: 0.162 seconds=0A=
+Preprocessor visited node count: 188/1000000=0A=
+Preprocessor generated node count: 0/1500000=0A=
+Post=E2=80=90expand include size: 4287/2097152 bytes=0A=
+Template argument size: 380/2097152 bytes=0A=
+Highest expansion depth: 7/40=0A=
+Expensive parser function count: 1/500=0A=
+Lua time usage: 0.029/10.000 seconds=0A=
+Lua memory usage: 872 KB/50 MB=0A=
+--><!-- =0A=
+Transclusion expansion time report (%,ms,calls,template)=0A=
+100.00%   96.408      1 - -total=0A=
+ 51.24%   49.396      1 - Template:About=0A=
+ 43.87%   42.293      1 - Template:Hatnote=0A=
+ 42.10%   40.589      1 - Template:No_footnotes=0A=
+ 33.94%   32.723      1 - Template:Ambox=0A=
+ 13.71%   13.220      1 - Template:Namespace_detect=0A=
+  2.23%    2.153      1 - Template:Str_left=0A=
+--><!-- Saved in parser cache with key =
+enwiki:pcache:idhash:12767224-0!*!0!!en!4!*!math=3D0 and timestamp =
+20150211064142 and revision id 646612452=0A=
+ --><NOSCRIPT><IMG=20
+title=3D""=20
+style=3D"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; =
+BORDER-LEFT-STYLE: none; POSITION: absolute; BORDER-BOTTOM-STYLE: none"=20
+height=3D1 alt=3D""=20
+src=3D"http://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=3D=
+1x1"=20
+width=3D1></NOSCRIPT></DIV>
+<DIV class=3Dprintfooter>Retrieved from "<A dir=3Dltr=20
+href=3D"http://en.wikipedia.org/w/index.php?title=3DDigital_differential_=
+analyzer_(graphics_algorithm)&amp;oldid=3D646612452">http://en.wikipedia.=
+org/w/index.php?title=3DDigital_differential_analyzer_(graphics_algorithm=
+)&amp;oldid=3D646612452</A>"=20
+</DIV>
+<DIV class=3Dcatlinks id=3Dcatlinks>
+<DIV class=3Dmw-normal-catlinks id=3Dmw-normal-catlinks><A =
+title=3DHelp:Category=20
+href=3D"http://en.wikipedia.org/wiki/Help:Category">Categories</A>:=20
+<UL>
+  <LI><A title=3D"Category:Computer graphics algorithms"=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Category:Computer_graphics_algorithm=
+s">Computer=20
+  graphics algorithms</A></LI>
+  <LI><A title=3D"Category:Digital geometry"=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Category:Digital_geometry">Digital=20
+  geometry</A></LI></UL></DIV>
+<DIV class=3D"mw-hidden-catlinks mw-hidden-cats-hidden"=20
+id=3Dmw-hidden-catlinks>Hidden categories:=20
+<UL>
+  <LI><A title=3D"Category:Articles lacking in-text citations from June =
+2011"=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Category:Articles_lacking_in-text_ci=
+tations_from_June_2011">Articles=20
+  lacking in-text citations from June 2011</A></LI>
+  <LI><A title=3D"Category:All articles lacking in-text citations"=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Category:All_articles_lacking_in-tex=
+t_citations">All=20
+  articles lacking in-text citations</A></LI>
+  <LI><A title=3D"Category:Articles with example C code"=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Category:Articles_with_example_C_cod=
+e">Articles=20
+  with example C code</A></LI></UL></DIV></DIV>
+<DIV class=3DvisualClear></DIV></DIV></DIV>
+<DIV id=3Dmw-navigation>
+<H2>Navigation menu</H2>
+<DIV id=3Dmw-head>
+<DIV class=3D"" id=3Dp-personal role=3D"navigation"=20
+aria-labelledby=3D"p-personal-label">
+<H3 id=3Dp-personal-label>Personal tools</H3>
+<UL>
+  <LI id=3Dpt-createaccount><A=20
+  title=3D"You are encouraged to create an account and log in; however, =
+it is not mandatory"=20
+  =
+href=3D"http://en.wikipedia.org/w/index.php?title=3DSpecial:UserLogin&amp=
+;returnto=3DDigital+differential+analyzer+%28graphics+algorithm%29&amp;ty=
+pe=3Dsignup">Create=20
+  account</A></LI>
+  <LI id=3Dpt-login><A=20
+  title=3D"You're encouraged to log in; however, it's not mandatory. =
+[o]"=20
+  accessKey=3Do=20
+  =
+href=3D"http://en.wikipedia.org/w/index.php?title=3DSpecial:UserLogin&amp=
+;returnto=3DDigital+differential+analyzer+%28graphics+algorithm%29">Log=20
+  in</A> </LI></UL></DIV>
+<DIV id=3Dleft-navigation>
+<DIV class=3DvectorTabs id=3Dp-namespaces role=3D"navigation"=20
+aria-labelledby=3D"p-namespaces-label">
+<H3 id=3Dp-namespaces-label>Namespaces</H3>
+<UL>
+  <LI class=3Dselected id=3Dca-nstab-main><SPAN><A title=3D"View the =
+content page [c]"=20
+  accessKey=3Dc=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)">Article</A></SPAN>=20
+  </LI>
+  <LI id=3Dca-talk><SPAN><A title=3D"Discussion about the content page =
+[t]"=20
+  accessKey=3Dt=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Talk:Digital_differential_analyzer_(=
+graphics_algorithm)">Talk</A></SPAN>=20
+  </LI></UL></DIV>
+<DIV class=3D"vectorMenu emptyPortlet" id=3Dp-variants =
+role=3D"navigation"=20
+aria-labelledby=3D"p-variants-label">
+<H3 id=3Dp-variants-label><SPAN>Variants</SPAN><A=20
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)#"></A></H3>
+<DIV class=3Dmenu>
+<UL></UL></DIV></DIV></DIV>
+<DIV id=3Dright-navigation>
+<DIV class=3DvectorTabs id=3Dp-views role=3D"navigation"=20
+aria-labelledby=3D"p-views-label">
+<H3 id=3Dp-views-label>Views</H3>
+<UL>
+  <LI class=3Dselected id=3Dca-view><SPAN><A=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)">Read</A></SPAN>=20
+  </LI>
+  <LI id=3Dca-edit><SPAN><A=20
+  title=3D"You can edit this page. Please use the preview button before =
+saving [e]"=20
+  accessKey=3De=20
+  =
+href=3D"http://en.wikipedia.org/w/index.php?title=3DDigital_differential_=
+analyzer_(graphics_algorithm)&amp;action=3Dedit">Edit</A></SPAN>=20
+  </LI>
+  <LI class=3Dcollapsible id=3Dca-history><SPAN><A=20
+  title=3D"Past versions of this page [h]" accessKey=3Dh=20
+  =
+href=3D"http://en.wikipedia.org/w/index.php?title=3DDigital_differential_=
+analyzer_(graphics_algorithm)&amp;action=3Dhistory"=20
+  rel=3Darchives>View history</A></SPAN> </LI></UL></DIV>
+<DIV class=3D"vectorMenu emptyPortlet" id=3Dp-cactions =
+role=3D"navigation"=20
+aria-labelledby=3D"p-cactions-label">
+<H3 id=3Dp-cactions-label><SPAN>More</SPAN><A=20
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)#"></A></H3>
+<DIV class=3Dmenu>
+<UL></UL></DIV></DIV>
+<DIV id=3Dp-search role=3D"search">
+<H3><LABEL for=3DsearchInput>Search</LABEL> </H3>
+<FORM id=3Dsearchform action=3D/w/index.php>
+<DIV id=3DsimpleSearch><INPUT id=3DsearchInput title=3D"Search Wikipedia =
+[f]"=20
+accessKey=3Df type=3Dsearch name=3Dsearch placeholder=3D"Search"><INPUT =
+type=3Dhidden=20
+value=3DSpecial:Search name=3Dtitle><INPUT class=3D"searchButton =
+mw-fallbackSearchButton" id=3Dmw-searchButton title=3D"Search Wikipedia =
+for this text" type=3Dsubmit value=3DSearch name=3Dfulltext><INPUT =
+class=3DsearchButton id=3DsearchButton title=3D"Go to a page with this =
+exact name if one exists" type=3Dsubmit value=3DGo name=3Dgo>=20
+</DIV></FORM></DIV></DIV></DIV>
+<DIV id=3Dmw-panel>
+<DIV id=3Dp-logo role=3D"banner"><A class=3Dmw-wiki-logo title=3D"Visit =
+the main page"=20
+href=3D"http://en.wikipedia.org/wiki/Main_Page"></A></DIV>
+<DIV class=3Dportal id=3Dp-navigation role=3D"navigation"=20
+aria-labelledby=3D"p-navigation-label">
+<H3 id=3Dp-navigation-label>Navigation</H3>
+<DIV class=3Dbody>
+<UL>
+  <LI id=3Dn-mainpage-description><A title=3D"Visit the main page [z]" =
+accessKey=3Dz=20
+  href=3D"http://en.wikipedia.org/wiki/Main_Page">Main page</A>=20
+  <LI id=3Dn-contents><A title=3D"Guides to browsing Wikipedia"=20
+  href=3D"http://en.wikipedia.org/wiki/Portal:Contents">Contents</A>=20
+  <LI id=3Dn-featuredcontent><A title=3D"Featured content =E2=80=93 the =
+best of Wikipedia"=20
+  href=3D"http://en.wikipedia.org/wiki/Portal:Featured_content">Featured =
+
+  content</A>=20
+  <LI id=3Dn-currentevents><A=20
+  title=3D"Find background information on current events"=20
+  href=3D"http://en.wikipedia.org/wiki/Portal:Current_events">Current =
+events</A>=20
+  <LI id=3Dn-randompage><A title=3D"Load a random article [x]" =
+accessKey=3Dx=20
+  href=3D"http://en.wikipedia.org/wiki/Special:Random">Random =
+article</A>=20
+  <LI id=3Dn-sitesupport><A title=3D"Support us"=20
+  =
+href=3D"https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?ut=
+m_source=3Ddonate&amp;utm_medium=3Dsidebar&amp;utm_campaign=3DC13_en.wiki=
+pedia.org&amp;uselang=3Den">Donate=20
+  to Wikipedia</A>=20
+  <LI id=3Dn-shoplink><A title=3D"Visit the Wikimedia Shop"=20
+  href=3D"http://shop.wikimedia.org/">Wikimedia Shop</A> =
+</LI></UL></DIV></DIV>
+<DIV class=3Dportal id=3Dp-interaction role=3D"navigation"=20
+aria-labelledby=3D"p-interaction-label">
+<H3 id=3Dp-interaction-label>Interaction</H3>
+<DIV class=3Dbody>
+<UL>
+  <LI id=3Dn-help><A title=3D"Guidance on how to use and edit Wikipedia" =
+
+  href=3D"http://en.wikipedia.org/wiki/Help:Contents">Help</A>=20
+  <LI id=3Dn-aboutsite><A title=3D"Find out about Wikipedia"=20
+  href=3D"http://en.wikipedia.org/wiki/Wikipedia:About">About =
+Wikipedia</A>=20
+  <LI id=3Dn-portal><A=20
+  title=3D"About the project, what you can do, where to find things"=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Wikipedia:Community_portal">Communit=
+y=20
+  portal</A>=20
+  <LI id=3Dn-recentchanges><A title=3D"A list of recent changes in the =
+wiki [r]"=20
+  accessKey=3Dr =
+href=3D"http://en.wikipedia.org/wiki/Special:RecentChanges">Recent=20
+  changes</A>=20
+  <LI id=3Dn-contactpage><A=20
+  href=3D"http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact =
+page</A>=20
+</LI></UL></DIV></DIV>
+<DIV class=3Dportal id=3Dp-tb role=3D"navigation" =
+aria-labelledby=3D"p-tb-label">
+<H3 id=3Dp-tb-label>Tools</H3>
+<DIV class=3Dbody>
+<UL>
+  <LI id=3Dt-whatlinkshere><A=20
+  title=3D"List of all English Wikipedia pages containing links to this =
+page [j]"=20
+  accessKey=3Dj=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Special:WhatLinksHere/Digital_differ=
+ential_analyzer_(graphics_algorithm)">What=20
+  links here</A>=20
+  <LI id=3Dt-recentchangeslinked><A=20
+  title=3D"Recent changes in pages linked from this page [k]" =
+accessKey=3Dk=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Digital_=
+differential_analyzer_(graphics_algorithm)">Related=20
+  changes</A>=20
+  <LI id=3Dt-upload><A title=3D"Upload files [u]" accessKey=3Du=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard">Upload=
+=20
+  file</A>=20
+  <LI id=3Dt-specialpages><A title=3D"A list of all special pages [q]" =
+accessKey=3Dq=20
+  href=3D"http://en.wikipedia.org/wiki/Special:SpecialPages">Special =
+pages</A>=20
+  <LI id=3Dt-permalink><A title=3D"Permanent link to this revision of =
+the page"=20
+  =
+href=3D"http://en.wikipedia.org/w/index.php?title=3DDigital_differential_=
+analyzer_(graphics_algorithm)&amp;oldid=3D646612452">Permanent=20
+  link</A>=20
+  <LI id=3Dt-info><A title=3D"More information about this page"=20
+  =
+href=3D"http://en.wikipedia.org/w/index.php?title=3DDigital_differential_=
+analyzer_(graphics_algorithm)&amp;action=3Dinfo">Page=20
+  information</A>=20
+  <LI id=3Dt-wikibase><A title=3D"Link to connected data repository item =
+[g]"=20
+  accessKey=3Dg href=3D"http://www.wikidata.org/wiki/Q2247908">Wikidata =
+item</A>=20
+  <LI id=3Dt-cite><A title=3D"Information on how to cite this page"=20
+  =
+href=3D"http://en.wikipedia.org/w/index.php?title=3DSpecial:CiteThisPage&=
+amp;page=3DDigital_differential_analyzer_%28graphics_algorithm%29&amp;id=3D=
+646612452">Cite=20
+  this page</A> </LI></UL></DIV></DIV>
+<DIV class=3Dportal id=3Dp-coll-print_export role=3D"navigation"=20
+aria-labelledby=3D"p-coll-print_export-label">
+<H3 id=3Dp-coll-print_export-label>Print/export</H3>
+<DIV class=3Dbody>
+<UL>
+  <LI id=3Dcoll-create_a_book><A=20
+  =
+href=3D"http://en.wikipedia.org/w/index.php?title=3DSpecial:Book&amp;book=
+cmd=3Dbook_creator&amp;referer=3DDigital+differential+analyzer+%28graphic=
+s+algorithm%29">Create=20
+  a book</A>=20
+  <LI id=3Dcoll-download-as-rdf2latex><A=20
+  =
+href=3D"http://en.wikipedia.org/w/index.php?title=3DSpecial:Book&amp;book=
+cmd=3Drender_article&amp;arttitle=3DDigital+differential+analyzer+%28grap=
+hics+algorithm%29&amp;oldid=3D646612452&amp;writer=3Drdf2latex">Download =
+
+  as PDF</A>=20
+  <LI id=3Dt-print><A title=3D"Printable version of this page [p]" =
+accessKey=3Dp=20
+  =
+href=3D"http://en.wikipedia.org/w/index.php?title=3DDigital_differential_=
+analyzer_(graphics_algorithm)&amp;printable=3Dyes">Printable=20
+  version</A> </LI></UL></DIV></DIV>
+<DIV class=3Dportal id=3Dp-lang role=3D"navigation" =
+aria-labelledby=3D"p-lang-label">
+<H3 id=3Dp-lang-label>Languages</H3>
+<DIV class=3Dbody>
+<UL>
+  <LI class=3D"interlanguage-link interwiki-es"><A lang=3Des=20
+  title=3D"Analizador Diferencial Digital (algoritmo gr=C3=A1fico) =
+=E2=80=93 Spanish"=20
+  =
+href=3D"http://es.wikipedia.org/wiki/Analizador_Diferencial_Digital_(algo=
+ritmo_gr%C3%A1fico)"=20
+  hreflang=3Des>Espa=C3=B1ol</A>=20
+  <LI class=3D"interlanguage-link interwiki-fr"><A lang=3Dfr=20
+  title=3D"Analyseur diff=C3=A9rentiel num=C3=A9rique =E2=80=93 French"=20
+  =
+href=3D"http://fr.wikipedia.org/wiki/Analyseur_diff%C3%A9rentiel_num%C3%A=
+9rique"=20
+  hreflang=3Dfr>Fran=C3=A7ais</A>=20
+  <LI class=3D"interlanguage-link interwiki-it"><A lang=3Dit=20
+  title=3D"Algoritmo DDA =E2=80=93 Italian"=20
+  href=3D"http://it.wikipedia.org/wiki/Algoritmo_DDA" =
+hreflang=3Dit>Italiano</A>=20
+  <LI class=3D"interlanguage-link interwiki-ru"><A lang=3Dru=20
+  title=3D"=D0=90=D0=BB=D0=B3=D0=BE=D1=80=D0=B8=D1=82=D0=BC =
+DDA-=D0=BB=D0=B8=D0=BD=D0=B8=D0=B8 =E2=80=93 Russian"=20
+  =
+href=3D"http://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8=
+%D1%82%D0%BC_DDA-%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8"=20
+  hreflang=3Dru>=D0=A0=D1=83=D1=81=D1=81=D0=BA=D0=B8=D0=B9</A>=20
+  <LI class=3D"interlanguage-link interwiki-uk"><A lang=3Duk=20
+  title=3D"=D0=90=D0=BB=D0=B3=D0=BE=D1=80=D0=B8=D1=82=D0=BC =
+DDA-=D0=BB=D1=96=D0=BD=D1=96=D1=97 =E2=80=93 Ukrainian"=20
+  =
+href=3D"http://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8=
+%D1%82%D0%BC_DDA-%D0%BB%D1%96%D0%BD%D1%96%D1%97"=20
+  =
+hreflang=3Duk>=D0=A3=D0=BA=D1=80=D0=B0=D1=97=D0=BD=D1=81=D1=8C=D0=BA=D0=B0=
+</A>=20
+  <LI class=3Duls-p-lang-dummy><A=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Digital_differential_analyzer_(graph=
+ics_algorithm)#"></A></LI></UL>
+<DIV class=3D"after-portlet after-portlet-lang"><SPAN=20
+class=3D"wb-langlinks-edit wb-langlinks-link"><A class=3Dwbc-editpage=20
+title=3D"Edit interlanguage links"=20
+href=3D"http://www.wikidata.org/wiki/Q2247908#sitelinks-wikipedia"=20
+text=3D"Edit links" action=3D"edit">Edit=20
+links</A></SPAN></DIV></DIV></DIV></DIV></DIV>
+<DIV id=3Dfooter role=3D"contentinfo">
+<UL id=3Dfooter-info>
+  <LI id=3Dfooter-info-lastmod>This page was last modified on 11 =
+February 2015, at=20
+  06:41.=20
+  <LI id=3Dfooter-info-copyright>Text is available under the <A=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_A=
+ttribution-ShareAlike_3.0_Unported_License"=20
+  rel=3Dlicense>Creative Commons Attribution-ShareAlike License</A><A=20
+  style=3D"DISPLAY: none" =
+href=3D"http://creativecommons.org/licenses/by-sa/3.0/"=20
+  rel=3Dlicense></A>; additional terms may apply. By using this site, =
+you agree to=20
+  the <A href=3D"http://wikimediafoundation.org/wiki/Terms_of_Use">Terms =
+of=20
+  Use</A> and <A=20
+  href=3D"http://wikimediafoundation.org/wiki/Privacy_policy">Privacy =
+Policy</A>.=20
+  Wikipedia=C2=AE is a registered trademark of the <A=20
+  href=3D"http://www.wikimediafoundation.org/">Wikimedia Foundation, =
+Inc.</A>, a=20
+  non-profit organization. </LI></UL>
+<UL id=3Dfooter-places>
+  <LI id=3Dfooter-places-privacy><A title=3D"wikimedia:Privacy policy"=20
+  href=3D"http://wikimediafoundation.org/wiki/Privacy_policy">Privacy =
+policy</A>=20
+  </LI>
+  <LI id=3Dfooter-places-about><A title=3DWikipedia:About=20
+  href=3D"http://en.wikipedia.org/wiki/Wikipedia:About">About =
+Wikipedia</A> </LI>
+  <LI id=3Dfooter-places-disclaimer><A title=3D"Wikipedia:General =
+disclaimer"=20
+  =
+href=3D"http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer">Discla=
+imers</A>=20
+  </LI>
+  <LI id=3Dfooter-places-contact><A=20
+  href=3D"http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact =
+Wikipedia</A>=20
+  </LI>
+  <LI id=3Dfooter-places-developers><A=20
+  =
+href=3D"https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribu=
+te">Developers</A>=20
+  </LI>
+  <LI id=3Dfooter-places-mobileview><A class=3D"noprint =
+stopMobileRedirectToggle"=20
+  =
+href=3D"http://en.m.wikipedia.org/w/index.php?title=3DDigital_differentia=
+l_analyzer_(graphics_algorithm)&amp;mobileaction=3Dtoggle_view_mobile">Mo=
+bile=20
+  view</A> </LI></UL>
+<UL class=3Dnoprint id=3Dfooter-icons>
+  <LI id=3Dfooter-copyrightico><A =
+href=3D"http://wikimediafoundation.org/"><IMG=20
+  height=3D31 alt=3D"Wikimedia Foundation"=20
+  src=3D"http://bits.wikimedia.org/images/wikimedia-button.png" =
+width=3D88=20
+  srcset=3D"//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, =
+//bits.wikimedia.org/images/wikimedia-button-2x.png 2x"></A>=20
+  </LI>
+  <LI id=3Dfooter-poweredbyico><A =
+href=3D"http://www.mediawiki.org/"><IMG height=3D31=20
+  alt=3D"Powered by MediaWiki"=20
+  =
+src=3D"http://bits.wikimedia.org/static-1.25wmf19/resources/assets/powere=
+dby_mediawiki_88x31.png"=20
+  width=3D88=20
+  =
+srcset=3D"//bits.wikimedia.org/static-1.25wmf19/resources/assets/poweredb=
+y_mediawiki_132x47.png 1.5x, =
+//bits.wikimedia.org/static-1.25wmf19/resources/assets/poweredby_mediawik=
+i_176x62.png 2x"></A>=20
+  </LI></UL>
+<DIV style=3D"CLEAR: both"></DIV></DIV>
+<SCRIPT>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</SCRIPT>
+
+<SCRIPT>if(window.mw){=0A=
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"r=
+eady","site":"loading","user":"ready","user.groups":"ready"});=0A=
+}</SCRIPT>
+
+<SCRIPT>if(window.mw){=0A=
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","mediawi=
+ki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSugges=
+t","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-w=
+izard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switch=
+er","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.i=
+mageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents.st=
+atsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.=
+eventlogger","ext.uls.interlanguage"],null,true);=0A=
+}</SCRIPT>
+
+<SCRIPT>if(window.mw){=0A=
+document.write("\u003Cscript =
+src=3D\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=3Dfalse\u002=
+6amp;lang=3Den\u0026amp;modules=3Dsite\u0026amp;only=3Dscripts\u0026amp;s=
+kin=3Dvector\u0026amp;*\"\u003E\u003C/script\u003E");=0A=
+}</SCRIPT>
+
+<SCRIPT>if(window.mw){=0A=
+mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1241"});=0A=
+}</SCRIPT>
+</BODY></HTML>
+
+------=_NextPart_000_0069_01D05B41.4549CA10
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://upload.wikimedia.org/math/b/8/b/b8b5711cae64e53fc8ab5df97f14bb27.png
+
+iVBORw0KGgoAAAANSUhEUgAAAJMAAAAnBAMAAAD5kGdFAAAAMFBMVEX///8WFhZQUFAMDAzMzMye
+np62trZAQEAEBATm5uYiIiJ0dHQwMDBiYmKKiooAAABU0ngcAAAAAXRSTlMAQObYZgAAAxJJREFU
+SA3tVk1o02AYftqmzdIu6RziThtxJxWEHlTwMAlMlDFlU2QXhXUMbxPjxR3KZJ5FyUmH0rXoQOZB
+Cp5G7Sg49eIgmxuDrZVPvG1Te5jCENT3q/1J0mbTehJ8oPne93l/krxJ83yAC86+gphyiQm5KGIu
+sTq0Ooowq8Nzyivq+O4Sq6X90S5cNWr5IjPgMwPbLrE6tLCFtxb6M7U9ydHDyT5NjvBVivIjoWL8
+cu1HuQWPLUw3ILzhmOfkAoI6XyvTrBicdcKj2saxYou3lubo00p0xbCllZwmRuMIrZnxuYwKOd9h
+y7nD57jxyX9gGfnVntVPL8lwh4c1R+iJ66wLBYxJ9il34AWk5BlsQjQTio9lN90bAYH5BV36ljak
+QiAibAdabLkj+TZIN006VZ8xhAns9paFo35qoCS9qhKRVVsr4CtF2nFM+oBFrIMMR9zqPqTHJESQ
+Ek3PFX/Wd9EaC6r0fLsxi8LAJRxNjYEMa9xh7w0cB/IZrVnzLiOWuWENe7RhA/GNFGJMTK+wKbpB
+Zo077I+dhoOpusriwapTtZSckp6O51iVadiSm67jdSowzhtc28OR5GYjuJBgeAR/oZFaZ80gcAve
+pJNuxD8EaQse1V4a/vHHoPtqhzKOhMZb/eWs6L0Vs3gm9NsvqxGPBu5LYdTbSK2jJqSjycDIkoP+
+7/7rExAy+lrW9SZ6V+TnrkFn4AGeTNqlwZIhpYLTXGN/DyZaobmlyvCogluwhjfwxcop/AorQi8h
+XPqf3S0n7aT09i8YCYZV6EFfpiIqW6OdlN7bUj4hX2Xd6gH7S+6RMr2D0mseXWLIZKRc7yIpzwIr
+1/BVQBsmocyy87f75fxU/Okml3wX+LeGVJk2KqLiM8NczQ1r4uCpVpi4L2SVLO0BCuxEM0m+G4TY
+TGwGiTT9MFxUc2vm6fS9tIGJdjoX3wNI47sqPc5R/To6wdW8Dt6bvugk7QGU5C5KT7XdCGEM+0yu
+5jWthEiIhf2XaQ8gmrsoPdXKa0uYw+F+ruY1raR3aYizfA8Q1IpK/xNFVhEjxdATowAAAABJRU5E
+rkJggg==
+
+------=_NextPart_000_0069_01D05B41.4549CA10
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://upload.wikimedia.org/math/3/9/c/39c5a9596688e7c1e3f0bdb70c7c4f00.png
+
+iVBORw0KGgoAAAANSUhEUgAAAHkAAAAQBAMAAADAL83oAAAAMFBMVEX///8EBAQiIiIWFhbm5uYM
+DAyenp6KiopQUFB0dHRAQEC2trYwMDBiYmLMzMwAAACBKDySAAAAAXRSTlMAQObYZgAAAWZJREFU
+KBW9kD1Lw1AUht+mH4kNaQsK6nYHxVVwqAhC/oC0P8Chg1tB8xOiuLhlcdAp0MmPoYuDUDCLg9JB
+cHGoGvwDdhAcCuI5ubnkGuwkeOCej/c5b5Ib4B9D/OldeXdt1MfZ9CfmsHSbI/NkaWvkAVY1xGfe
+3Vvj4NUclm6ncIH7wG4A3fKD/ZF3Z3MOS/duy8MyKmNae4+dNnq836FjxJT0yDCrQqI9YBEWD48w
+QpyyGgLmfsydFhkG3WdW3ucApS8UfVpbR93DCu+HdAoxJd5L761hBoITsAmzgVZM3TxuXMxdR7qb
+ZBUZZkVIeYJqhONaB2jiFnZzJ5rizjAbBSf+X+UA5xa1g+cNOAtu6XK4PQzTL092ZEpxqoikztCe
+i8FLMkxgdNvUhXTkvRNZJYV5FkpMq+E7q6hjHPzu1jAbotSlSjG+cvGGo37irrzeKSCrhn8COZlP
+h0r2VaNVDWuqar8BzbVlgvIA1AUAAAAASUVORK5CYII=
+
+------=_NextPart_000_0069_01D05B41.4549CA10
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://upload.wikimedia.org/math/9/c/8/9c83e61e1e43d675a72aaa91871d8514.png
+
+iVBORw0KGgoAAAANSUhEUgAAAIAAAAApBAMAAAAPAzzeAAAAMFBMVEX///8MDAwEBAS2traenp5Q
+UFAWFhaKiooiIiLm5uYwMDBAQEBiYmJ0dHTMzMwAAADdHjBWAAAAAXRSTlMAQObYZgAAAYhJREFU
+SA1jYCAbcG4gWytEo2EDZQbMCqPQAAauUQNGwwCYCClPBwlAUygArOt/RVKgfQhr5aDU7VgMeHua
+5xY+Y1HlMQ3gvMDRWT8B3YRtaSDQABRGk8c0gIeBLYAPXT8SH00e0wBOBn4HBgbuBJAeIIOB4wGQ
+QALI8kBhmAH/YQAo5g/EvOAiGkiwBz0AclEAQp47LS0pLS0DRRbICQNijgKQKMgUpgcgFiIMkOWB
+EjAXgBRBAB9DNsN0BqbJoJhAGACTZWBAlgeKYhrg/ziV4QCDWcksHAYgy2M14PXd2XcnMByKZODc
+tUpq1QaoFxAugMtDhDBdABFvMQTR2LyALA9k4zLgAz8vXgMg8kAlXBAD0Um+BtbLEANYzq9FlwTy
+ofJYZFCFAlC5NOWxn2K/2znnVAHZlvAwbWZYfYFZgWwD/OYXMDQysHwg2wBQDtJlYG0g34AIBs5/
+wJKAfANyGNgVGOY/IN+AzwzcCxgu8jmQawIw+BgvMOxmJVc/qARimsBgdY4BAOKSb8htWVQBAAAA
+AElFTkSuQmCC
+
+------=_NextPart_000_0069_01D05B41.4549CA10
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://upload.wikimedia.org/math/5/0/5/5053bcc0efcddb74315daa3c546a9fb6.png
+
+iVBORw0KGgoAAAANSUhEUgAAAGgAAAAPBAMAAAD6w5dwAAAAMFBMVEX///8MDAwEBAS2traenp5Q
+UFAWFhaKiooiIiLm5uYwMDBAQEBiYmJ0dHTMzMwAAADdHjBWAAAAAXRSTlMAQObYZgAAAYdJREFU
+KBV9kc9LwmAYx7/iar5tTqGgW/QHeDAI6ShEEUEoQZ06COEpi3WR8FKHoCKIUQeDfih0F28RKOzQ
+D0iN3cRwsOiWSB66eIle3fuKA/OF7fk8n+/zbu8YMHTdDk0Hh42dwX6Y/Tr8L22W5PfB2dyd7ZV6
+vpJ1jBDDc7KvORRrlnIMbnCcbjsmZIxGFYdhTfKBWx1xWLzpVgJf2BYX3JMgJXeAt9Dw02MKYuet
+EWaKPJGMDsnbvIfQ6iEFxU9v68xM8cRldcmb0JgZiTHoFjkPBVtIQ6yqC4GwXD67PkoJq4/2jBi3
+d1mjeaKiXievzSeg/Kwi8hmHjkslK2ZRIC11cgwp/lzh1KIo/IaiMiRDEl26D5Ke0dAwr0wN5wlq
+lbY7RqaB3sfB3fm7SrFWrCFj0gsz+NZC1NkrqbuCab8cFQ+AccJtX12kvIc17IIesbsUv1f1CbNZ
+14qkA615pvvLB7woYFNfxoRhe/JiQqqiWL/3WPR4av80Y7nyhhw2wpJZUv8A1G5mZXLkDTsAAAAA
+SUVORK5CYII=
+
+------=_NextPart_000_0069_01D05B41.4549CA10
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png
+
+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
+
+------=_NextPart_000_0069_01D05B41.4549CA10
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1
+
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEX///+nxBvIAAAAEklEQVR4
+XgXAgQgAAAAAoP2pjwACAAF0O1JHAAAAAElFTkSuQmCC
+
+------=_NextPart_000_0069_01D05B41.4549CA10
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://bits.wikimedia.org/images/wikimedia-button.png
+
+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
+
+------=_NextPart_000_0069_01D05B41.4549CA10
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://bits.wikimedia.org/static-1.25wmf19/resources/assets/poweredby_mediawiki_88x31.png
+
+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
+
+------=_NextPart_000_0069_01D05B41.4549CA10
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*
+
+var mediaWikiLoadStart=3D(new Date()).getTime();function =
+isCompatible(ua){if(ua=3D=3D=3Dundefined){ua=3Dnavigator.userAgent;}retur=
+n!((ua.indexOf('MSIE')!=3D=3D-1&&parseFloat(ua.split('MSIE')[1])<8)||(ua.=
+indexOf('Firefox/')!=3D=3D-1&&parseFloat(ua.split('Firefox/')[1])<3)||(ua=
+.indexOf('Opera/')!=3D=3D-1&&(ua.indexOf('Version/')=3D=3D=3D-1?parseFloa=
+t(ua.split('Opera/')[1])<10:parseFloat(ua.split('Version/')[1])<12))||(ua=
+.indexOf('Opera ')!=3D=3D-1&&parseFloat(ua.split(' Opera =
+')[1])<10)||ua.match(/BlackBerry[^\/]*\/[1-5]\./)||ua.match(/webOS\/1\.[0=
+-4]/)||ua.match(/PlayStation/i)||ua.match(/SymbianOS|Series60/)||ua.match=
+(/NetFront/)||ua.match(/Opera =
+Mini/)||ua.match(/S40OviBrowser/)||(ua.match(/Glass/)&&ua.match(/Android/=
+)));}var startUp=3Dfunction(){mw.config=3Dnew =
+mw.Map(true);mw.loader.addSource({"local":"//bits.wikimedia.org/en.wikipe=
+dia.org/load.php","metawiki":"//bits.wikimedia.org/meta.wikimedia.org/loa=
+d.php"});(function(name,version,dependencies,group,source){(function(mw,$=
+){$(function(){var $selected=3D$(mw.config.=0A=
+get('EmbedPlayer.RewriteSelector'));if($selected.length){var inx=3D0;var =
+checkSetDone=3Dfunction(){if(inx<$selected.length){$selected.slice(inx,in=
+x+1).embedPlayer(function(){setTimeout(function(){checkSetDone();},5);});=
+}inx++;};checkSetDone();}});$.fn.embedPlayer=3Dfunction(readyCallback){va=
+r playerSet=3Dthis;mw.log('jQuery.fn.embedPlayer :: =
+'+$(playerSet).length);var =
+dependencySet=3D['mw.EmbedPlayer'];mw.loader.using(['jquery.client','jque=
+ry.mwEmbedUtil','mw.MwEmbedSupport'],function(){$(playerSet).each(functio=
+n(inx,playerElement){$(playerElement).removeAttr('controls');if($.client.=
+profile().name!=3D=3D'firefox'){$(playerElement).parent().getAbsoluteOver=
+laySpinner().attr('id','loadingSpinner_'+$(playerElement).attr('id'));}$(=
+mw).trigger('EmbedPlayerUpdateDependencies',[playerElement,dependencySet]=
+);});dependencySet=3D$.uniqueArray(dependencySet);mw.loader.using(depende=
+ncySet,function(){mw.processEmbedPlayers(playerSet,readyCallback);},funct=
+ion(e){throw new Error(=0A=
+'Error loading EmbedPlayer dependency set: =
+'+e.message);});});};})(window.mediaWiki,window.jQuery);})("EmbedPlayer.l=
+oader",1425505871,[],null,"local");(function(name,version,dependencies,gr=
+oup,source){(function(mw,$){$(mw).bind('EmbedPlayerUpdateDependencies',fu=
+nction(event,playerElement,classRequest){if(mw.isTimedTextSupported(playe=
+rElement)){classRequest=3D$.merge(classRequest,['mw.TimedText']);}});$(mw=
+).bind('EmbedPlayerNewPlayer',function(event,embedPlayer){if(mw.isTimedTe=
+xtSupported(embedPlayer)){embedPlayer.timedText=3Dnew =
+mw.TimedText(embedPlayer);}});mw.isTimedTextSupported=3Dfunction(embedPla=
+yer){var =
+mwprovider=3DembedPlayer['data-mwprovider']||$(embedPlayer).data('mwprovi=
+der');var =
+showInterface=3Dmw.config.get('TimedText.ShowInterface.'+mwprovider)||mw.=
+config.get('TimedText.ShowInterface');if(showInterface=3D=3D'always'){ret=
+urn true;}else if(showInterface=3D=3D'off'){return =
+false;}if($(embedPlayer).find('track').length!=3D0){return =
+true;}else{return false;}};})(window.mediaWiki,window.jQuery);})=0A=
+("TimedText.loader",1425505871,[],null,"local");(function(name,version,de=
+pendencies,group,source){(function(mw,$){$(mw).bind('EmbedPlayerUpdateDep=
+endencies',function(event,embedPlayer,dependencySet){if($(embedPlayer).at=
+tr('data-mwtitle')){$.merge(dependencySet,['mw.MediaWikiPlayerSupport']);=
+}});})(mediaWiki,jQuery);})("mw.MediaWikiPlayer.loader",1425505872,[],nul=
+l,"local");mw.loader.register([["site",1425825712,[],"site"],["noscript",=
+1424722601,[],"noscript"],["filepage",1425662829],["user.groups",14242824=
+90,[],"user"],["user",1424360653,[],"user"],["user.cssprefs",1370044800,[=
+],"private"],["user.defaults",1424303211],["user.options",1370044800,[6],=
+"private"],["user.tokens",1370044800,[],"private"],["mediawiki.language.d=
+ata",1424360573,[143]],["mediawiki.skinning.elements",1425505871],["media=
+wiki.skinning.content",1425505871],["mediawiki.skinning.interface",142550=
+5869],["mediawiki.skinning.content.parsoid",1425505871],["mediawiki.skinn=
+ing.content.externallinks",1425918452],[=0A=
+"jquery.accessKeyLabel",1425613058,[25,43]],["jquery.appear",1425505871],=
+["jquery.arrowSteps",1425873128],["jquery.async",1425505871],["jquery.aut=
+oEllipsis",1425505871,[37]],["jquery.badge",1425810711,[140]],["jquery.by=
+teLength",1425663406],["jquery.byteLimit",1425505871,[21]],["jquery.check=
+boxShiftClick",1425505870],["jquery.chosen",1425505871],["jquery.client",=
+1425505869],["jquery.color",1425505871,[27]],["jquery.colorUtil",14255058=
+71],["jquery.confirmable",1425613058,[144]],["jquery.cookie",1425505869],=
+["jquery.expandableField",1425777367],["jquery.farbtastic",1425564826,[27=
+]],["jquery.footHovzer",1425913273],["jquery.form",1425505871],["jquery.f=
+ullscreen",1425505871],["jquery.getAttrs",1425965081],["jquery.hidpi",142=
+5918290],["jquery.highlightText",1425505870,[43]],["jquery.hoverIntent",1=
+425505871],["jquery.localize",1425505871],["jquery.makeCollapsible",14256=
+13058],["jquery.mockjax",1425505871],["jquery.mw-jump",1425505870],["jque=
+ry.mwExtension",1425505869],["jquery.placeholder",=0A=
+1425762650],["jquery.qunit",1425505871],["jquery.qunit.completenessTest",=
+1425505871,[45]],["jquery.spinner",1425505871],["jquery.jStorage",1425505=
+871,[91]],["jquery.suggestions",1425505870,[37]],["jquery.tabIndex",14255=
+05871],["jquery.tablesorter",1425613058,[43,145]],["jquery.textSelection"=
+,1425505870,[25]],["jquery.throttle-debounce",1425505871],["jquery.valida=
+te",1425505871],["jquery.xmldom",1425505871],["jquery.tipsy",1425505871],=
+["jquery.ui.core",1425505871,[],"jquery.ui"],["jquery.ui.accordion",14255=
+05871,[57,76],"jquery.ui"],["jquery.ui.autocomplete",1425505871,[65],"jqu=
+ery.ui"],["jquery.ui.button",1425505871,[57,76],"jquery.ui"],["jquery.ui.=
+datepicker",1425505871,[57],"jquery.ui"],["jquery.ui.dialog",1425505871,[=
+60,63,67,69],"jquery.ui"],["jquery.ui.draggable",1425505871,[57,66],"jque=
+ry.ui"],["jquery.ui.droppable",1425505871,[63],"jquery.ui"],["jquery.ui.m=
+enu",1425505871,[57,67,76],"jquery.ui"],["jquery.ui.mouse",1425505871,[76=
+],"jquery.ui"],["jquery.ui.position",1425505871,[],=0A=
+"jquery.ui"],["jquery.ui.progressbar",1425505871,[57,76],"jquery.ui"],["j=
+query.ui.resizable",1425505871,[57,66],"jquery.ui"],["jquery.ui.selectabl=
+e",1425505871,[57,66],"jquery.ui"],["jquery.ui.slider",1425505871,[57,66]=
+,"jquery.ui"],["jquery.ui.sortable",1425862822,[57,66],"jquery.ui"],["jqu=
+ery.ui.spinner",1425505871,[60],"jquery.ui"],["jquery.ui.tabs",1425505871=
+,[57,76],"jquery.ui"],["jquery.ui.tooltip",1425505871,[57,67,76],"jquery.=
+ui"],["jquery.ui.widget",1425505871,[],"jquery.ui"],["jquery.effects.core=
+",1425505871,[],"jquery.ui"],["jquery.effects.blind",1425505871,[77],"jqu=
+ery.ui"],["jquery.effects.bounce",1425505871,[77],"jquery.ui"],["jquery.e=
+ffects.clip",1425505871,[77],"jquery.ui"],["jquery.effects.drop",14255058=
+71,[77],"jquery.ui"],["jquery.effects.explode",1425505871,[77],"jquery.ui=
+"],["jquery.effects.fade",1425505871,[77],"jquery.ui"],["jquery.effects.f=
+old",1425505871,[77],"jquery.ui"],["jquery.effects.highlight",1425505871,=
+[77],"jquery.ui"],["jquery.effects.pulsate",=0A=
+1425505871,[77],"jquery.ui"],["jquery.effects.scale",1425505871,[77],"jqu=
+ery.ui"],["jquery.effects.shake",1425505871,[77],"jquery.ui"],["jquery.ef=
+fects.slide",1425505871,[77],"jquery.ui"],["jquery.effects.transfer",1425=
+505871,[77],"jquery.ui"],["json",1425505871,[],null,null,"return!!(window=
+.JSON\u0026\u0026JSON.stringify\u0026\u0026JSON.parse);"],["moment",14255=
+05871],["mediawiki.apihelp",1425657972,[108]],["mediawiki.template",14255=
+05869],["mediawiki.apipretty",1425657972],["mediawiki.api",1425505871,[12=
+2]],["mediawiki.api.category",1425777293,[117,96]],["mediawiki.api.edit",=
+1425505871,[117,96,8]],["mediawiki.api.login",1425505871,[96]],["mediawik=
+i.api.parse",1425505871,[96]],["mediawiki.api.watch",1425505870,[96,8]],[=
+"mediawiki.content.json",1425505871],["mediawiki.confirmCloseWindow",1425=
+505871],["mediawiki.debug",1425505871,[32,56]],["mediawiki.debug.init",14=
+25505871,[104]],["mediawiki.feedback",1425613058,[62,98,144,94]],["mediaw=
+iki.hidpi",1425505870,[36],null,null,=0A=
+"return'srcset'in new =
+Image();"],["mediawiki.hlist",1425505871,[25]],["mediawiki.htmlform",1425=
+613058,[22,43]],["mediawiki.icon",1425505871],["mediawiki.inspect",142550=
+5871,[21,91]],["mediawiki.notification",1425505871,[150]],["mediawiki.not=
+ify",1425666239],["mediawiki.pager.tablePager",1425505871],["mediawiki.se=
+archSuggest",1425945242,[35,44,49,96]],["mediawiki.sectionAnchor",1425505=
+869],["mediawiki.Title",1425946523,[21,122]],["mediawiki.toc",1425613057,=
+[29]],["mediawiki.Uri",1425505871,[122]],["mediawiki.user",1425505871,[29=
+,96,7,8]],["mediawiki.userSuggest",1425505871,[49,96]],["mediawiki.util",=
+1425505869,[15,113]],["mediawiki.cookie",1425505870,[29]],["mediawiki.too=
+lbar",1425505871],["mediawiki.action.edit",1425505871,[22,52,126]],["medi=
+awiki.action.edit.styles",1425505869],["mediawiki.action.edit.collapsible=
+Footer",1425505871,[29,40,110]],["mediawiki.action.edit.preview",14256130=
+59,[33,47,52,131,96,144]],["mediawiki.action.edit.stash",1425505871,[35,9=
+6]],[=0A=
+"mediawiki.action.history",1425660741,[],"mediawiki.action.history"],["me=
+diawiki.action.history.diff",1425505871,[],"mediawiki.action.history"],["=
+mediawiki.action.view.dblClickEdit",1425505871,[150,7]],["mediawiki.actio=
+n.view.metadata",1425613059],["mediawiki.action.view.categoryPage.styles"=
+,1425669970],["mediawiki.action.view.postEdit",1425613059,[123,144,94]],[=
+"mediawiki.action.view.redirect",1425505871,[25]],["mediawiki.action.view=
+.redirectPage",1425535352],["mediawiki.action.view.rightClickEdit",142550=
+5871],["mediawiki.action.edit.editWarning",1425613060,[52,103,144]],["med=
+iawiki.language",1425613058,[141,9]],["mediawiki.cldr",1425505869,[142]],=
+["mediawiki.libs.pluralruleparser",1425949805],["mediawiki.language.init"=
+,1425505869],["mediawiki.jqueryMsg",1425505869,[140,122]],["mediawiki.lan=
+guage.months",1425613059,[140]],["mediawiki.language.names",1424902411,[1=
+43]],["mediawiki.libs.jpegmeta",1425505871],["mediawiki.page.gallery",142=
+5505871,[53]],["mediawiki.page.ready",1425505870,[=0A=
+15,23,40,42,44]],["mediawiki.page.startup",1425505869,[122]],["mediawiki.=
+page.patrol.ajax",1425613059,[47,117,96,150,8]],["mediawiki.page.watch.aj=
+ax",1425613059,[101,150]],["mediawiki.page.image.pagination",1425505871,[=
+47,119]],["mediawiki.special",1425505870],["mediawiki.special.block",1425=
+505871,[122]],["mediawiki.special.changeemail",1425613059,[122]],["mediaw=
+iki.special.changeslist",1425505871],["mediawiki.special.changeslist.lege=
+nd",1425851672],["mediawiki.special.changeslist.legend.js",1425505871,[29=
+,40]],["mediawiki.special.changeslist.enhanced",1425505871],["mediawiki.s=
+pecial.import",1425505871],["mediawiki.special.movePage",1425505871,[22]]=
+,["mediawiki.special.pageLanguage",1425505871],["mediawiki.special.pagesW=
+ithProp",1425505871],["mediawiki.special.preferences",1425613059,[103,140=
+]],["mediawiki.special.recentchanges",1425505871,[154]],["mediawiki.speci=
+al.search",1425659677],["mediawiki.special.undelete",1425780233],["mediaw=
+iki.special.upload",1425613059,[47,117,96,103,144,=0A=
+147,94]],["mediawiki.special.userlogin.common.styles",1425505871],["media=
+wiki.special.userlogin.signup.styles",1425505871],["mediawiki.special.use=
+rlogin.login.styles",1425505871],["mediawiki.special.userlogin.common.js"=
+,1425613060],["mediawiki.special.userlogin.signup.js",1425613060,[53,96,1=
+44]],["mediawiki.special.unwatchedPages",1425613060,[117,101]],["mediawik=
+i.special.javaScriptTest",1425613059,[119]],["mediawiki.special.version",=
+1425657972],["mediawiki.legacy.config",1425505871],["mediawiki.legacy.aja=
+x",1425505871,[184]],["mediawiki.legacy.commonPrint",1425505869],["mediaw=
+iki.legacy.protect",1425613059,[22]],["mediawiki.legacy.shared",142550586=
+9],["mediawiki.legacy.oldshared",1425505871],["mediawiki.legacy.wikibits"=
+,1425937696,[122]],["mediawiki.ui",1425662386],["mediawiki.ui.checkbox",1=
+425505869],["mediawiki.ui.radio",1425505871],["mediawiki.ui.anchor",14255=
+05870],["mediawiki.ui.button",1425505869],["mediawiki.ui.input",142550586=
+9],["mediawiki.ui.icon",1425663530],[=0A=
+"mediawiki.ui.text",1425505871],["es5-shim",1425505871,[],null,null,"retu=
+rn(function(){'use =
+strict';return!this\u0026\u0026!!Function.prototype.bind;}());"],["oojs",=
+1425505869,[193,91]],["oojs-ui",1425613056,[194,196]],["oojs-ui.styles",1=
+425505871],["ext.geshi.language.4cs",1424896049],["ext.geshi.language.650=
+2acme",1424896049],["ext.geshi.language.6502kickass",1424896049],["ext.ge=
+shi.language.6502tasm",1424896049],["ext.geshi.language.68000devpac",1424=
+896049],["ext.geshi.language.abap",1424896049],["ext.geshi.language.actio=
+nscript",1424896049],["ext.geshi.language.actionscript3",1424896049],["ex=
+t.geshi.language.ada",1424896049],["ext.geshi.language.algol68",142489604=
+9],["ext.geshi.language.apache",1424896049],["ext.geshi.language.applescr=
+ipt",1424896049],["ext.geshi.language.arm",1424896049],["ext.geshi.langua=
+ge.asm",1424896049],["ext.geshi.language.asp",1424896049],["ext.geshi.lan=
+guage.asymptote",1424896049],["ext.geshi.language.autoconf",1424896049],[=
+"ext.geshi.language.autohotkey",=0A=
+1424896049],["ext.geshi.language.autoit",1424896049],["ext.geshi.language=
+.avisynth",1424896049],["ext.geshi.language.awk",1424896049],["ext.geshi.=
+language.bascomavr",1425284003],["ext.geshi.language.bash",1424896049],["=
+ext.geshi.language.basic4gl",1424896049],["ext.geshi.language.bf",1424896=
+049],["ext.geshi.language.bibtex",1424896049],["ext.geshi.language.blitzb=
+asic",1424896049],["ext.geshi.language.bnf",1424896049],["ext.geshi.langu=
+age.boo",1424896049],["ext.geshi.language.c",1425916554],["ext.geshi.lang=
+uage.caddcl",1424896049],["ext.geshi.language.cadlisp",1424896049],["ext.=
+geshi.language.cfdg",1425709466],["ext.geshi.language.cfm",1424896049],["=
+ext.geshi.language.chaiscript",1424896049],["ext.geshi.language.cil",1424=
+896049],["ext.geshi.language.clojure",1424896049],["ext.geshi.language.cm=
+ake",1424896049],["ext.geshi.language.cobol",1424896049],["ext.geshi.lang=
+uage.coffeescript",1425657972],["ext.geshi.language.cpp",1424896049],["ex=
+t.geshi.language.csharp",1425739271],[=0A=
+"ext.geshi.language.css",1425554579],["ext.geshi.language.cuesheet",14256=
+57972],["ext.geshi.language.d",1424896049],["ext.geshi.language.dcl",1424=
+896049],["ext.geshi.language.dcpu16",1424896049],["ext.geshi.language.dcs=
+",1424896049],["ext.geshi.language.delphi",1424896049],["ext.geshi.langua=
+ge.diff",1425657972],["ext.geshi.language.div",1424896049],["ext.geshi.la=
+nguage.dos",1424896049],["ext.geshi.language.dot",1424896049],["ext.geshi=
+.language.e",1424896049],["ext.geshi.language.ecmascript",1425657688],["e=
+xt.geshi.language.eiffel",1424896049],["ext.geshi.language.email",1424896=
+049],["ext.geshi.language.epc",1424896049],["ext.geshi.language.erlang",1=
+425870357],["ext.geshi.language.euphoria",1424896049],["ext.geshi.languag=
+e.f1",1424896049],["ext.geshi.language.falcon",1424896049],["ext.geshi.la=
+nguage.fo",1424896049],["ext.geshi.language.fortran",1424896049],["ext.ge=
+shi.language.freebasic",1424896049],["ext.geshi.language.freeswitch",1424=
+896049],["ext.geshi.language.fsharp",1424896049],[=0A=
+"ext.geshi.language.gambas",1424896049],["ext.geshi.language.gdb",1424896=
+049],["ext.geshi.language.genero",1424896049],["ext.geshi.language.genie"=
+,1424896049],["ext.geshi.language.gettext",1425850195],["ext.geshi.langua=
+ge.glsl",1424896049],["ext.geshi.language.gml",1424896049],["ext.geshi.la=
+nguage.gnuplot",1424896049],["ext.geshi.language.go",1424896049],["ext.ge=
+shi.language.groovy",1424896049],["ext.geshi.language.gwbasic",1424896049=
+],["ext.geshi.language.haskell",1424896049],["ext.geshi.language.haxe",14=
+25509130],["ext.geshi.language.hicest",1424896049],["ext.geshi.language.h=
+q9plus",1424896049],["ext.geshi.language.html4strict",1424896049],["ext.g=
+eshi.language.html5",1424896049],["ext.geshi.language.icon",1424896049],[=
+"ext.geshi.language.idl",1424896049],["ext.geshi.language.ini",1424896049=
+],["ext.geshi.language.inno",1424896049],["ext.geshi.language.intercal",1=
+424896049],["ext.geshi.language.io",1425657972],["ext.geshi.language.j",1=
+424896049],["ext.geshi.language.java",1424896049],[=0A=
+"ext.geshi.language.java5",1424896049],["ext.geshi.language.javascript",1=
+424896049],["ext.geshi.language.jquery",1424896049],["ext.geshi.language.=
+kixtart",1424896049],["ext.geshi.language.klonec",1424896049],["ext.geshi=
+.language.klonecpp",1424896049],["ext.geshi.language.latex",1424896049],[=
+"ext.geshi.language.lb",1424896049],["ext.geshi.language.ldif",1424896049=
+],["ext.geshi.language.lisp",1425657972],["ext.geshi.language.llvm",14248=
+96049],["ext.geshi.language.locobasic",1425865588],["ext.geshi.language.l=
+ogtalk",1424896049],["ext.geshi.language.lolcode",1424896049],["ext.geshi=
+.language.lotusformulas",1424896049],["ext.geshi.language.lotusscript",14=
+24896049],["ext.geshi.language.lscript",1424896049],["ext.geshi.language.=
+lsl2",1424896049],["ext.geshi.language.lua",1424896049],["ext.geshi.langu=
+age.m68k",1425447799],["ext.geshi.language.magiksf",1424896049],["ext.ges=
+hi.language.make",1424896049],["ext.geshi.language.mapbasic",1424896049],=
+["ext.geshi.language.matlab",1424896049],[=0A=
+"ext.geshi.language.mirc",1424896049],["ext.geshi.language.mmix",14248960=
+49],["ext.geshi.language.modula2",1424896049],["ext.geshi.language.modula=
+3",1424896049],["ext.geshi.language.mpasm",1424896049],["ext.geshi.langua=
+ge.mxml",1424896049],["ext.geshi.language.mysql",1424896049],["ext.geshi.=
+language.nagios",1424896049],["ext.geshi.language.netrexx",1424896049],["=
+ext.geshi.language.newlisp",1424896049],["ext.geshi.language.nsis",142489=
+6049],["ext.geshi.language.oberon2",1424896049],["ext.geshi.language.objc=
+",1424896049],["ext.geshi.language.objeck",1424896049],["ext.geshi.langua=
+ge.ocaml",1424896049],["ext.geshi.language.octave",1424896049],["ext.gesh=
+i.language.oobas",1424896049],["ext.geshi.language.oorexx",1424896049],["=
+ext.geshi.language.oracle11",1424896049],["ext.geshi.language.oracle8",14=
+24896049],["ext.geshi.language.oxygene",1424896049],["ext.geshi.language.=
+oz",1424896049],["ext.geshi.language.parasail",1424896049],["ext.geshi.la=
+nguage.parigp",1424896049],[=0A=
+"ext.geshi.language.pascal",1425663469],["ext.geshi.language.pcre",142489=
+6049],["ext.geshi.language.per",1424896049],["ext.geshi.language.perl",14=
+24896049],["ext.geshi.language.perl6",1424896049],["ext.geshi.language.pf=
+",1424896049],["ext.geshi.language.php",1424896049],["ext.geshi.language.=
+pic16",1424896049],["ext.geshi.language.pike",1424896049],["ext.geshi.lan=
+guage.pixelbender",1424896049],["ext.geshi.language.pli",1424896049],["ex=
+t.geshi.language.plsql",1424896049],["ext.geshi.language.postgresql",1425=
+657972],["ext.geshi.language.povray",1424896049],["ext.geshi.language.pow=
+erbuilder",1424896049],["ext.geshi.language.powershell",1424896049],["ext=
+.geshi.language.proftpd",1424896049],["ext.geshi.language.progress",14248=
+96049],["ext.geshi.language.prolog",1424896049],["ext.geshi.language.prop=
+erties",1424896049],["ext.geshi.language.providex",1424896049],["ext.gesh=
+i.language.purebasic",1425870338],["ext.geshi.language.pycon",1424896049]=
+,["ext.geshi.language.pys60",1424896049],[=0A=
+"ext.geshi.language.python",1424896049],["ext.geshi.language.q",142489604=
+9],["ext.geshi.language.qbasic",1425848841],["ext.geshi.language.rails",1=
+425712628],["ext.geshi.language.rebol",1424896049],["ext.geshi.language.r=
+eg",1424896049],["ext.geshi.language.rexx",1424896049],["ext.geshi.langua=
+ge.robots",1424896049],["ext.geshi.language.rpmspec",1424896049],["ext.ge=
+shi.language.rsplus",1424896049],["ext.geshi.language.ruby",1424896049],[=
+"ext.geshi.language.sas",1424896049],["ext.geshi.language.scala",14248960=
+49],["ext.geshi.language.scheme",1424896049],["ext.geshi.language.scilab"=
+,1424896049],["ext.geshi.language.sdlbasic",1425512267],["ext.geshi.langu=
+age.smalltalk",1424896049],["ext.geshi.language.smarty",1424896049],["ext=
+.geshi.language.spark",1425657972],["ext.geshi.language.sparql",142489604=
+9],["ext.geshi.language.sql",1424896049],["ext.geshi.language.stonescript=
+",1424896049],["ext.geshi.language.systemverilog",1424896049],["ext.geshi=
+.language.tcl",1424896049],[=0A=
+"ext.geshi.language.teraterm",1424896049],["ext.geshi.language.text",1424=
+896049],["ext.geshi.language.thinbasic",1424896049],["ext.geshi.language.=
+tsql",1424896049],["ext.geshi.language.typoscript",1424896049],["ext.gesh=
+i.language.unicon",1425819343],["ext.geshi.language.upc",1424896049],["ex=
+t.geshi.language.urbi",1424896049],["ext.geshi.language.uscript",14248960=
+49],["ext.geshi.language.vala",1424896049],["ext.geshi.language.vb",14248=
+96049],["ext.geshi.language.vbnet",1424896049],["ext.geshi.language.vedit=
+",1424896049],["ext.geshi.language.verilog",1424896049],["ext.geshi.langu=
+age.vhdl",1424896049],["ext.geshi.language.vim",1424896049],["ext.geshi.l=
+anguage.visualfoxpro",1424896049],["ext.geshi.language.visualprolog",1424=
+896049],["ext.geshi.language.whitespace",1424896049],["ext.geshi.language=
+.whois",1425661161],["ext.geshi.language.winbatch",1425752548],["ext.gesh=
+i.language.xbasic",1424896049],["ext.geshi.language.xml",1424896049],["ex=
+t.geshi.language.xpp",1424896049],[=0A=
+"ext.geshi.language.yaml",1424896049],["ext.geshi.language.z80",142489604=
+9],["ext.geshi.language.zxbasic",1424896049],["ext.gadget.modrollback",14=
+24282108],["ext.gadget.removeAccessKeys",1423761164,[15]],["ext.gadget.se=
+archFocus",1425657939],["ext.gadget.GoogleTrans",1424366681],["ext.gadget=
+.imagelinks",1424363194,[122]],["ext.gadget.Navigation_popups",1424277513=
+],["ext.gadget.exlinks",1424276316,[122]],["ext.gadget.search-new-tab",14=
+24366690],["ext.gadget.PrintOptions",1424277513,[62]],["ext.gadget.revisi=
+onjumper",1425845690],["ext.gadget.Twinkle",1425856332,[120,62,56,92]],["=
+ext.gadget.HideFundraisingNotice",1425794702],["ext.gadget.HideCentralNot=
+ice",1424366690],["ext.gadget.teahouse",1424740675],["ext.gadget.Referenc=
+eTooltips",1425968274],["ext.gadget.geonotice",1424274902],["ext.gadget.g=
+eonotice-core",1425901343,[122]],["ext.gadget.WatchlistNoMarkers",1424360=
+613],["ext.gadget.WatchlistChangesBold",1423759449],["ext.gadget.DotsSynt=
+axHighlighter",1424276475],["ext.gadget.HotCat",=0A=
+1425951116],["ext.gadget.wikEdDiff",1425657972],["ext.gadget.ProveIt",142=
+5884344,[74,60,85,52,122]],["ext.gadget.afchelper",1425904580,[120,24]],[=
+"ext.gadget.DRN-wizard",1425663744],["ext.gadget.charinsert",1425960959],=
+["ext.gadget.charinsert-core",1424282491,[124,52,4]],["ext.gadget.refTool=
+bar",1424282453,[7,184]],["ext.gadget.refToolbarBase",1424361712],["ext.g=
+adget.edittop",1424277513,[7]],["ext.gadget.UTCLiveClock",1425867472],["e=
+xt.gadget.mySandbox",1424712940,[117,119]],["ext.gadget.purgetab",1424884=
+874,[122]],["ext.gadget.CollapsibleNav",1424282491,[29,50]],["ext.gadget.=
+MenuTabsToggle",1424363758,[29]],["ext.gadget.dropdown-menus",1424364994]=
+,["ext.gadget.dropdown-menus-vector",1425674676],["ext.gadget.dropdown-me=
+nus-nonvector",1424358558],["ext.gadget.addsection-plus",1424360472],["ex=
+t.gadget.OldDiff",1424312063],["ext.gadget.NoAnimations",1424360613],["ex=
+t.gadget.disablesuggestions",1424360613],["ext.gadget.NoSmallFonts",14237=
+61164],["ext.gadget.topalert",1424363768],[=0A=
+"ext.gadget.metadata",1424360572],["ext.gadget.JustifyParagraphs",1424366=
+690],["ext.gadget.righteditlinks",1409776753],["ext.gadget.PrettyLog",142=
+4362958,[122]],["ext.gadget.switcher",1425936561],["ext.gadget.SidebarTra=
+nslate",1425430619],["ext.gadget.Blackskin",1424361597],["ext.gadget.Vect=
+orClassic",1424363195],["ext.gadget.widensearch",1425418701],["ext.gadget=
+.featured-articles-links",1424277512],["ext.gadget.DejaVu_Sans",142591954=
+5],["ext.gadget.ShowMessageNames",1424366680,[122]],["ext.gadget.DebugMod=
+e",1424361597,[122]],["ext.gadget.contribsrange",1424366854,[122,47]],["e=
+xt.gadget.BugStatusUpdate",1424360613],["ext.gadget.RTRC",1424830056],["e=
+xt.gadget.mobile-sidebar",1424361591],["ext.gadget.NewImageThumb",1424367=
+366],["ext.gadget.ContributorsHack",1424276565],["mw.MwEmbedSupport",1425=
+613057,[476,478,488,487,479]],["Spinner",1425505871],["iScroll",142550587=
+1],["jquery.loadingSpinner",1425505871],["mw.MwEmbedSupport.style",142550=
+5871],["mediawiki.UtilitiesTime",1425505871],[=0A=
+"mediawiki.client",1425505871],["mediawiki.absoluteUrl",1425663467],["mw.=
+ajaxProxy",1425505871],["fullScreenApi",1425505871],["jquery.embedMenu",1=
+425505871],["jquery.ui.touchPunch",1425505871,[57,66]],["jquery.triggerQu=
+eueCallback",1425505871],["jquery.mwEmbedUtil",1425505871],["jquery.debou=
+ncedresize",1425505871],["mw.Language.names",1425657972],["mw.Api",142550=
+5871],["mw.MediaElement",1425505871],["mw.MediaPlayer",1425505871],["mw.M=
+ediaPlayers",1425706984,[493]],["mw.MediaSource",1425505871],["mw.EmbedTy=
+pes",1425505871,[119,494]],["mw.EmbedPlayer",1425657972,[484,29,489,485,3=
+8,71,486,480,482,481,144,501,496,492,495,505]],["mw.EmbedPlayerKplayer",1=
+425505871],["mw.EmbedPlayerGeneric",1425505871],["mw.EmbedPlayerJava",142=
+5505871],["mw.EmbedPlayerNative",1425505871],["mw.EmbedPlayerVLCApp",1425=
+505871,[119]],["mw.EmbedPlayerImageOverlay",1425505871],["mw.EmbedPlayerV=
+lc",1425505871],["mw.PlayerSkinKskin",1425505871],["mw.PlayerSkinMvpcf",1=
+425505871],["mw.TimedText",1425613057,[62,497,508]]=0A=
+,["mw.TextSource",1425505871,[480,483]],["ext.globalCssJs.user",142436669=
+0,[],"user","metawiki"],["ext.globalCssJs.site",1418168899,[],"site","met=
+awiki"],["ext.popups",1425613057,[48,96,144,92,528]],["schema.FlowReplies=
+",1380606144,[942]],["schema.GuidedTourGuiderImpression",1378739195,[942]=
+],["schema.GuidedTourGuiderHidden",1378735349,[942]],["schema.GuidedTourB=
+uttonClick",1378735350,[942]],["schema.GuidedTourInternalLinkActivation",=
+1378735353,[942]],["schema.GuidedTourExternalLinkActivation",1378735360,[=
+942]],["schema.GuidedTourExited",1378735366,[942]],["schema.NavigationTim=
+ing",1380830554,[942]],["schema.SaveTiming",1380830099,[942]],["schema.Me=
+diaViewer",1380911862,[942]],["schema.MultimediaViewerNetworkPerformance"=
+,1381075054,[942]],["schema.MultimediaViewerDuration",1380472780,[942]],[=
+"schema.MultimediaViewerAttribution",1379802979,[942]],["schema.Multimedi=
+aViewerDimensions",1380059038,[942]],["schema.ImageMetricsLoadingTime",13=
+80123163,[942]],["schema.ImageMetricsCorsSupport",=0A=
+1380929276,[942]],["schema.Popups",1377581756,[942]],["schema.MobileWebUp=
+loads",1378253843,[942]],["schema.MobileWebEditing",1378643825,[942]],["s=
+chema.MobileWebWatchlistClickTracking",1380765161,[942]],["schema.MobileW=
+ebDiffClickTracking",1380765173,[942]],["schema.MobileWebMainMenuClickTra=
+cking",1380747895,[942]],["schema.MobileWebUIClickTracking",1380786959,[9=
+42]],["schema.UniversalLanguageSelector",1377372241,[942]],["schema.Mobil=
+eWebWikiGrok",1380780728,[942]],["schema.MobileWebWikiGrokError",13803983=
+16,[942]],["skins.vector.styles",1425945337],["skins.vector.js",142550587=
+1,[50,53]],["skins.monobook.styles",1425505871],["skins.modern",142550587=
+1],["skins.cologneblue",1425505871],["ext.wikihiero",1425940405],["ext.wi=
+kihiero.Special",1425613058,[47]],["ext.wikihiero.visualEditor",142561305=
+9,[700]],["ext.cite",1425858235],["ext.rtlcite",1425953850],["ext.citeThi=
+sPage",1425505871],["ext.inputBox.styles",1425505869],["ext.inputBox",142=
+5505870,[53]],["ext.geshi.local",1425845736],[=0A=
+"ext.flaggedRevs.basic",1425505870],["ext.flaggedRevs.advanced",142561305=
+9,[15]],["ext.flaggedRevs.review",1425613058,[144,120]],["ext.categoryTre=
+e",1425661780],["ext.categoryTree.css",1425505871],["mediawiki.api.titleb=
+lacklist",1425930250,[96]],["ext.securepoll.htmlform",1425505871],["ext.s=
+ecurepoll",1425505871],["ext.nuke",1425657972],["ext.confirmEdit.fancyCap=
+tcha.styles",1425505871],["ext.confirmEdit.fancyCaptcha",1425505871,[96]]=
+,["ext.confirmEdit.fancyCaptchaMobile",1425505871,[753]],["ext.centralaut=
+h",1425613057,[47,122]],["ext.centralauth.centralautologin",1425505871,[1=
+44]],["ext.centralauth.centralautologin.clearcookie",1425505871],["ext.ce=
+ntralauth.noflash",1425505871],["ext.centralauth.globaluserautocomplete",=
+1425505871,[49,96]],["ext.centralauth.globalusers",1425505871],["ext.cent=
+ralauth.globalgrouppermissions",1425505871],["ext.centralauth.globalrenam=
+euser",1425613059,[122]],["ext.GlobalUserPage",1425505871],["ext.dismissa=
+bleSiteNotice",1425505871,[29,122]],[=0A=
+"jquery.ui.multiselect",1425505871,[64,72,144]],["ext.centralNotice.admin=
+Ui",1425613059,[61,574]],["ext.centralNotice.adminUi.bannerManager",14256=
+13060,[575,62,119]],["ext.centralNotice.adminUi.bannerEditor",1425505871,=
+[575,62]],["ext.centralNotice.bannerStats",1425505871],["ext.centralNotic=
+e.bannerController",1425830536,[580,29,91,119]],["ext.centralNotice.banne=
+rChoiceData",1425729780,[581]],["ext.centralNotice.bannerController.lib",=
+1425505869],["ext.centralNotice.adminUi.campaignManager",1425505872,[575,=
+62,71]],["ext.collection.jquery.jstorage",1370044800,[48]],["ext.collecti=
+on.suggest",1425887192,[586]],["ext.collection",1425505872,[586,72,140]],=
+["ext.collection.bookcreator",1425505872,[48]],["ext.collection.checkLoad=
+FromLocalStorage",1425505872,[48]],["ext.abuseFilter",1425505872],["ext.a=
+buseFilter.edit",1425613058,[47,52,96]],["ext.abuseFilter.tools",14256130=
+58,[47,96,8]],["ext.abuseFilter.examine",1425613058,[47,96]],["jquery.wik=
+iEditor",1425613057,[52],"ext.wikiEditor"],[=0A=
+"jquery.wikiEditor.dialogs",1425663073,[50,62,597],"ext.wikiEditor"],["jq=
+uery.wikiEditor.dialogs.config",1425613059,[49,593,117,96,144],"ext.wikiE=
+ditor"],["jquery.wikiEditor.preview",1425505872,[592,96],"ext.wikiEditor"=
+],["jquery.wikiEditor.publish",1425505872,[593],"ext.wikiEditor"],["jquer=
+y.wikiEditor.toolbar",1425505872,[18,29,592,599],"ext.wikiEditor"],["jque=
+ry.wikiEditor.toolbar.config",1425505872,[597],"ext.wikiEditor"],["jquery=
+.wikiEditor.toolbar.i18n",1370044800,[],"ext.wikiEditor"],["ext.wikiEdito=
+r",1425657972,[592],"ext.wikiEditor"],["ext.wikiEditor.dialogs",142550587=
+2,[604,594],"ext.wikiEditor"],["ext.wikiEditor.preview",1425505872,[600,5=
+95],"ext.wikiEditor"],["ext.wikiEditor.publish",1425505872,[600,596],"ext=
+.wikiEditor"],["ext.wikiEditor.toolbar",1425505872,[600,598],"ext.wikiEdi=
+tor"],["ext.wikiEditor.toolbar.styles",1425505872,[],"ext.wikiEditor"],["=
+ext.wikiEditor.toolbar.hideSig",1425505872,[],"ext.wikiEditor"],["ext.Mas=
+sMessage.autocomplete",1425505872,[59]],[=0A=
+"ext.MassMessage.special.js",1425613059,[607,22,53,144]],["ext.MassMessag=
+e.special",1425505872],["ext.MassMessage.content",1425505872],["ext.MassM=
+essage.content.js",1425505872,[607,28,96]],["ext.MassMessage.content.noed=
+it",1425505872],["ext.MassMessage.content.nojs",1425505872],["ext.MassMes=
+sage.create",1425613058,[607,144]],["ext.MassMessage.edit",1425505872,[22=
+]],["ext.betaFeatures",1425505872,[25]],["ext.betaFeatures.styles",142550=
+5872],["ext.betaFeatures.popup",1425613058,[56]],["mmv.lightboximage",142=
+5505872,[635]],["mmv.lightboxinterface",1425613058,[637,654,640,647,649]]=
+,["mmv.ThumbnailWidthCalculator",1425505872,[36,630]],["mmv.HtmlUtils",14=
+25505870,[635]],["mmv.model",1425505872,[635,194]],["mmv.model.IwTitle",1=
+425505872,[623]],["mmv.model.EmbedFileInfo",1425505872,[623]],["mmv.model=
+.License",1425505872,[622,623]],["mmv.model.Image",1425505872,[626]],["mm=
+v.model.Repo",1425505872,[623]],["mmv.model.Thumbnail",1425657972,[623]],=
+["mmv.model.ThumbnailWidth",1425505872,[623]],[=0A=
+"mmv.model.User",1425505872,[623]],["mmv.model.TaskQueue",1425505872,[623=
+]],["mmv.provider",1425757866,[117,119,658,627,624,628,629,631]],["mmv.ro=
+uting",1425505872,[117,194]],["mmv.base",1425505872],["mmv.ui",1425505872=
+,[664]],["mmv.ui.canvas",1425613057,[621,636]],["mmv.ui.dialog",142550587=
+2,[636]],["mmv.ui.download",1425505872,[636]],["mmv.ui.download.dialog",1=
+425505872,[638,639]],["mmv.ui.download.pane",1425613058,[185,189,648,625,=
+639,653]],["mmv.ui.stripeButtons",1425613058,[53,56,144,636]],["mmv.ui.de=
+scription",1425505872,[622,636]],["mmv.ui.permission",1425613057,[26,144,=
+622,636]],["mmv.ui.truncatableTextField",1425505872,[622,636]],["mmv.ui.p=
+rogressBar",1425505872,[636]],["mmv.ui.metadataPanel",1425657972,[666,643=
+,644,646,642,645]],["mmv.embedFileFormatter",1425658093,[622,634]],["mmv.=
+ui.reuse.dialog",1425505872,[638]],["mmv.ui.reuse.tab",1425505872,[636]],=
+["mmv.ui.reuse.share",1425613058,[634,650,195]],["mmv.ui.reuse.embed",142=
+5613058,[120,648,625,650,653]],["mmv.ui.utils",=0A=
+1425505872,[622,636,195]],["mmv.ui.canvasButtons",1425613058,[655]],["mmv=
+.ui.viewingOptions",1425613058,[638]],["mmv.ui.tipsyDialog",1425505872,[5=
+6,636]],["mmv.logging.Logger",1425505870,[635]],["mmv.logging.Performance=
+Logger",1425505872,[942,657,194]],["mmv.logging.Api",1425505872,[96,657,1=
+94]],["mmv.Config",1425921744,[120,635]],["mmv",1425613056,[34,670,619,62=
+0,659,667,665,668,632,633,634]],["mmv.bootstrap",1425613057,[671,670,117,=
+191,660,622,664,665]],["mmv.bootstrap.autostart",1425957894,[662]],["mmv.=
+logging.ActionLogger",1425974458,[942,657,194]],["mmv.logging.DurationLog=
+ger",1425663406,[942,120,657,194]],["mmv.logging.AttributionLogger",14256=
+61775,[942,120,657,194]],["mmv.logging.DimensionLogger",1425505872,[942,3=
+6,657,194]],["mmv.logging.ViewLogger",1425505872,[119,635]],["mmv.head",1=
+425505872,[120,635]],["jquery.scrollTo",1425505870],["jquery.hashchange",=
+1425678740],["ext.imageMetrics",1425942626,[194,527,526]],["ext.imageMetr=
+ics.head",1425964191],["ext.imageMetrics.loader",=0A=
+1425942626],["skins.vector.beta",1425505872],["skins.vector.header.beta",=
+1425505872,[],"other"],["skins.vector.headerjs.beta",1425680860,[53]],["s=
+kins.vector.compactPersonalBar.trackClick",1425505872,[120,1225]],["skins=
+.vector.compactPersonalBar.defaultTracking",1425505872,[678]],["skins.vec=
+tor.compactPersonalBar",1425613059,[678]],["jquery.visibleText",142550587=
+2],["Base64.js",1425505872],["easy-deflate.core",1425505872,[682]],["easy=
+-deflate.deflate",1425505872,[683]],["unicodejs",1425505872],["unicodejs.=
+wordbreak",1370044800,[685]],["papaparse",1425505872],["rangefix",1425505=
+872],["ext.visualEditor.viewPageTarget.init",1425613060,[693,117,119,150,=
+7]],["ext.visualEditor.viewPageTarget.noscript",1425505869],["ext.visualE=
+ditor.viewPageTarget",1425613059,[699,695,144]],["ext.visualEditor.ve",14=
+25505872],["ext.visualEditor.track",1425505872,[692]],["ext.visualEditor.=
+base",1425505872,[692,195,685]],["ext.visualEditor.mediawiki",1425660171,=
+[684,694,693,681,117,119,140,120,92]],[=0A=
+"ext.visualEditor.standalone",1425505872,[694,972]],["ext.visualEditor.da=
+ta",1425613058,[695]],["ext.visualEditor.core",1425613058,[694,977,687,68=
+8]],["ext.visualEditor.core.desktop",1425505872,[698]],["ext.visualEditor=
+.mwcore",1425613059,[698,19,22,117,131,144,13,120]],["ext.visualEditor.mw=
+formatting",1425613059,[700]],["ext.visualEditor.mwimage.core",1425505872=
+,[700]],["ext.visualEditor.mwimage",1425613059,[702]],["ext.visualEditor.=
+mwlink",1425613059,[700]],["ext.visualEditor.mwmeta",1425613059,[704]],["=
+ext.visualEditor.mwreference.core",1425613060,[700]],["ext.visualEditor.m=
+wreference",1425613059,[695,706,709]],["ext.visualEditor.mwtransclusion.c=
+ore",1425505872,[700]],["ext.visualEditor.mwtransclusion",1425613059,[708=
+]],["ext.visualEditor.language",1425613059,[698,146]],["ext.visualEditor.=
+mwalienextension",1425613060,[700]],["ext.visualEditor.mwgallery",1425613=
+059,[700]],["ext.visualEditor.experimental",1370044800,[710,711]],["ext.v=
+isualEditor.icons",1425505872],["ext.templateData",=0A=
+1425505872],["ext.templateDataGenerator.editPage",1425613060,[718]],["ext=
+.templateDataGenerator.data",1425505872,[194]],["ext.templateDataGenerato=
+r.ui",1425613059,[717,977,195]],["ext.wikiLove.icon",1425505872],["ext.wi=
+kiLove.defaultOptions",1425613059],["ext.wikiLove.startup",1425613058,[72=
+0,39,62,98,189]],["ext.wikiLove.local",1425613058],["ext.wikiLove.init",1=
+425505872,[721]],["mediawiki.libs.guiders",1425505872],["ext.guidedTour.s=
+tyles",1425949192,[724,189]],["ext.guidedTour.lib.internal",1425505872],[=
+"ext.guidedTour.lib",1425613057,[726,725,117,123,144,120,515,518,517,514,=
+513,516]],["ext.guidedTour.launcher",1425505872],["ext.guidedTour",142550=
+5872,[727]],["ext.guidedTour.tour.firstedit",1425613059,[729]],["ext.guid=
+edTour.tour.firsteditve",1425613059,[729]],["ext.guidedTour.tour.test",14=
+25613059,[729]],["ext.guidedTour.tour.uprightdownleft",1425505872,[729]],=
+["mobile.app.site",1424364994],["mobile.app.pagestyles.android",142550587=
+2],["mobile.app.pagestyles.android.night",=0A=
+1425505872],["mobile.app.pagestyles.ios",1425505872],["mobile.app.preview=
+",1425657972],["ext.mantle.handlebars",1425505872,[94]],["mobile.modules"=
+,1425505872],["mobile.oo",1425697469,[740,194]],["mobile.view",1425505872=
+,[741,747]],["mobile.context",1425505872,[740]],["mobile.browser",1425505=
+872,[742]],["mobile.mainMenu",1425505872,[742]],["mobile.modifiedBar",142=
+5613058,[144,740]],["mobile.templates",1425505869,[94]],["mobile.pagelist=
+.scripts",1425613059,[780]],["mobile.watchlist",1425613057,[748]],["mobil=
+e.toc",1425613057,[1226,777]],["mobile.ajax",1425505872],["mobile.setting=
+s",1425505872,[29,810]],["mobile.startup",1425613057,[755,756]],["mobile.=
+foreignApi",1425505872,[753]],["mobile.redlinks",1425505872,[120,810]],["=
+mobile.user",1425942929,[120,810]],["mobile.leadPhotoUploader",1425505872=
+,[773],"user"],["mobile.editor",1425613057,[190,770,772,777]],["mobile.ab=
+usefilter",1425613058,[770]],["mobile.editor.api",1425505872,[759,811]],[=
+"mobile.editor.common",1425613058,[760,195]],[=0A=
+"mobile.editor.overlay",1425613058,[761]],["mobile.uploads",1425613057,[7=
+78,760,754]],["mobile.talk",1425613057,[812],"other"],["mobile.preferredL=
+anguages",1425505872,[752,753]],["mobile.search",1425698368,[117,1226,770=
+,748]],["mobile.talk.overlays",1425613058,[188,764]],["mobile.mediaViewer=
+",1425658154,[770]],["mobile.categories",1425613057,[761]],["mobile.overl=
+ays",1425613057,[751,753]],["mobile.drawers",1425663347,[753]],["mobile.t=
+oast",1425505872,[771]],["mobile.upload.ui",1425613057,[770]],["mobile.re=
+direct",1425613057,[752,772]],["mobile.references.beta",1425613058,[776]]=
+,["mobile.references",1425505872,[771,1226]],["mobile.toggling",142585363=
+3,[752,753]],["mobile.contentOverlays",1425613058,[770]],["mobile.newuser=
+s",1425613057,[778,758,1226],"user"],["mobile.watchstar",1425613057,[751,=
+772]],["mobile.errorReport",1425613058,[770]],["mobile.errorReport.overla=
+y",1425613059,[770,772]],["mobile.languages",1425613057,[770]],["mobile.i=
+ssues",1425793982,[770]],["mobile.nearby",=0A=
+1425613057,[754,1226,748,796]],["mobile.notifications",1425505872,[188,12=
+26,770],"user"],["mobile.notifications.overlay",1425613059,[887,811]],["m=
+obile.gallery",1425613057,[754,772]],["mobile.commonsCategory",1425505872=
+,[788]],["mobile.wikidata.api",1425505872,[754]],["mobile.otherProjects",=
+1425613058,[770,790]],["mobile.hexmd5",1425505872],["mobile.infobox",1425=
+613057,[792,770,790,195]],["mobile.bannerImage",1425505872,[751]],["mobil=
+e.fontchanger",1425613058,[771,1226]],["mobile.special.nearby.styles",142=
+5505872],["mobile.special.userlogin.scripts",1425505872,[810]],["mobile.s=
+pecial.nearby.scripts",1425613059,[785]],["mobile.special.uploads.scripts=
+",1425613059,[788,773]],["mobile.special.mobilediff.scripts",1425657972,[=
+1226]],["skins.minerva.chrome.styles",1425505869],["skins.minerva.content=
+.styles",1425916438],["skins.minerva.drawers.styles",1425505869],["mobile=
+.pagelist.styles",1425505869],["skins.minerva.tablet.styles",1425505869],=
+["skins.minerva.icons.styles",1425505872],[=0A=
+"skins.minerva.icons.images",1370044800],["skins.minerva.beta.styles",142=
+5505872],["skins.minerva.beta.images",1370044800],["mobile.head",14256130=
+57,[744,743,745,746]],["mobile.stable",1425505872,[784,774,776,766]],["mo=
+bile.beta",1425505872,[794,765,775,811]],["mobile.alpha",1425505872,[812,=
+781,795,793,791]],["tablet.scripts",1370044800,[750]],["zerobanner.config=
+.styles",1425657972],["ext.math.styles",1425922511],["ext.math.desktop.st=
+yles",1425505872],["ext.math.scripts",1425505872],["ext.math.mathjax.enab=
+ler",1425505872],["ext.math.mathjax.mathjax",1425505872],["ext.math.mathj=
+ax.localization",1370044800,[820]],["ext.math.mathjax.jax.config",1425505=
+872,[820]],["ext.math.mathjax.extensions.ui",1425505872,[820]],["ext.math=
+.mathjax.extensions.TeX",1425505872,[820]],["ext.math.mathjax.extensions.=
+mediawiki",1425657972,[820]],["ext.math.mathjax.extensions.mml2jax",14255=
+05872,[820]],["ext.math.mathjax.extensions",1370044800,[824,825,826,823]]=
+,["ext.math.mathjax.jax.element.mml.optable",=0A=
+1425505872,[829]],["ext.math.mathjax.jax.element.mml",1425877927,[820]],[=
+"ext.math.mathjax.jax.input.MathML",1425505872,[822,829]],["ext.math.math=
+jax.jax.input.TeX",1425505872,[822,829]],["ext.math.mathjax.jax.output.Na=
+tiveMML",1425774186,[822,829]],["ext.math.mathjax.jax.output.HTML-CSS.aut=
+oload",1425505872,[834]],["ext.math.mathjax.jax.output.HTML-CSS",14256579=
+72,[822,829]],["ext.math.mathjax.jax.output.HTML-CSS.fonts.TeX.fontdata",=
+1425505872,[834]],["ext.math.mathjax.jax.output.SVG.autoload",1425505872,=
+[837]],["ext.math.mathjax.jax.output.SVG",1425505872,[822,829]],["ext.mat=
+h.mathjax.jax.output.SVG.fonts.TeX.fontdata",1425505872,[837]],["ext.math=
+.mathjax.jax.output.HTML-CSS.fonts.TeX.MainJS",1425505872,[835]],["ext.ma=
+th.mathjax.jax.output.HTML-CSS.fonts.TeX.Main",1425657972,[835]],["ext.ma=
+th.mathjax.jax.output.HTML-CSS.fonts.TeX.AMS",1425505872,[835]],["ext.mat=
+h.mathjax.jax.output.HTML-CSS.fonts.TeX.Extra",1425505872,[835]],["ext.ma=
+th.mathjax.jax.output.SVG.fonts.TeX.MainJS",=0A=
+1425505872,[838]],["ext.math.mathjax.jax.output.SVG.fonts.TeX.Main",14255=
+05872,[838]],["ext.math.mathjax.jax.output.SVG.fonts.TeX.AMS",1425505872,=
+[838]],["ext.math.mathjax.jax.output.SVG.fonts.TeX.Extra",1425505872,[838=
+]],["ext.math.editbutton.enabler",1425613059],["ext.math.visualEditor",14=
+25613058,[700]],["ext.babel",1425660972],["ext.vipsscaler",1425613057,[85=
+1]],["jquery.ucompare",1425505872],["ext.apiSandbox",1425613057,[47,60,12=
+2]],["ext.pageTriage.external",1425613058],["ext.pageTriage.util",1425613=
+058],["ext.pageTriage.models",1425613058,[853,117,120]],["jquery.tipoff",=
+1425505872],["ext.pageTriage.views.list",1425613059,[855,854,47,856,60,14=
+4]],["ext.pageTriage.views.toolbar",1425613059,[862,860,855,854,20,47,60,=
+63,144]],["ext.pageTriage.defaultTagsOptions",1425613060],["ext.pageTriag=
+e.externalTagsOptions",1425613060,[859]],["ext.pageTriage.defaultDeletion=
+TagsOptions",1425613060,[117]],["ext.pageTriage.externalDeletionTagsOptio=
+ns",1425613060,[861]],[=0A=
+"ext.pageTriage.toolbarStartup",1425505872],["ext.pageTriage.article",142=
+5505872],["ext.interwiki.specialpage",1425505872,[40]],["ep.core",1425505=
+872,[144]],["ep.api",1425505872,[866,120]],["ep.pager",1425613056,[867,62=
+]],["ep.pager.course",1370044800,[868]],["ep.pager.org",1370044800,[868]]=
+,["ep.datepicker",1425505872,[61]],["ep.combobox",1425657972,[59]],["ep.f=
+ormpage",1425505872,[604,60]],["ep.disenroll",1425505872,[60]],["ep.ambpr=
+ofile",1425505872,[876,604,60]],["ep.imageinput",1425505872,[59]],["ep.ar=
+ticletable",1425613057,[866,59,62]],["ep.addorg",1425505872],["ep.addcour=
+se",1425505872],["ep.timeline",1425505872],["ep.studentactivity",14255058=
+72],["ep.enlist",1425613057,[867,59,62]],["ep.dyk",1425505872],["ep.userr=
+olesmessage",1425505872],["ep.addstudents",1425613057,[886,119,120]],["ep=
+.tagsinput",1425505872,[57]],["ext.echo.base",1425922095,[1227,1229,1228]=
+],["ext.echo.overlay",1425849879,[887,96,144,188]],["ext.echo.overlay.ini=
+t",1425919589,[888]],["ext.echo.special",1425613057=0A=
+,[887,189]],["ext.echo.alert",1425505872],["ext.echo.badge",1425505869],[=
+"ext.thanks",1425505872],["ext.thanks.revthank",1425613058,[893,28,96,8]]=
+,["ext.thanks.mobilediff",1425613058,[800,772]],["ext.thanks.flowthank",1=
+425613058,[893,96,144,8]],["ext.flow.contributions",1425505872,[],"ext.fl=
+ow"],["ext.flow.contributions.styles",1425505872,[],"ext.flow"],["ext.flo=
+w.templating",1425613058,[739,92],"ext.flow"],["ext.flow.mediawiki.ui.mod=
+al",1425505872,[],"ext.flow"],["ext.flow.mediawiki.ui.text",1425505872,[]=
+,"ext.flow"],["ext.flow.mediawiki.ui.form",1425505872,[],"ext.flow"],["ex=
+t.flow.mediawiki.ui.tooltips",1425505872,[],"ext.flow"],["ext.flow.icons.=
+styles",1425505872,[],"ext.flow"],["ext.flow.styles",1425505872,[],"ext.f=
+low"],["ext.flow.board.styles",1425618703,[],"ext.flow"],["ext.flow.board=
+.topic.styles",1425505872,[],"ext.flow"],["ext.flow.handlebars",142550587=
+2,[899],"ext.flow"],["ext.flow",1425613056,[908,914,915,910,53,117,119,14=
+4,120,194,512],"ext.flow"],[=0A=
+"ext.flow.vendor.storer",1425505872,[],"ext.flow"],["ext.flow.editor",142=
+5505872,[913],"ext.flow"],["ext.flow.editors.none",1425505872,[],"ext.flo=
+w"],["ext.flow.parsoid",1425505872,[],"ext.flow"],["ext.flow.jquery.condi=
+tionalScroll",1425658945,[],"ext.flow"],["ext.flow.jquery.findWithParent"=
+,1425505872,[],"ext.flow"],["ext.disambiguator.visualEditor",1425613059,[=
+695,705]],["ext.codeEditor",1425505872,[604,918],"ext.wikiEditor"],["jque=
+ry.codeEditor",1425613057,[919,69,592,96,7],"ext.wikiEditor"],["ext.codeE=
+ditor.ace",1425505872,[],"ext.codeEditor.ace"],["ext.codeEditor.ace.modes=
+",1425505872,[919],"ext.codeEditor.ace"],["ext.codeEditor.geshi",14255058=
+72,[100],"ext.wikiEditor"],["ext.scribunto",1425613057,[62]],["ext.scribu=
+nto.edit",1425613057,[922,47,96]],["schema.GettingStartedRedirectImpressi=
+on",1377400352,[942]],["ext.guidedTour.tour.gettingstartedtasktoolbar",14=
+25613060,[931,729]],["ext.guidedTour.tour.gettingstartedtasktoolbarve",14=
+25613060,[931,729]],[=0A=
+"ext.gettingstarted.lightbulb.postEdit",1425613060,[932,930,939]],["ext.g=
+ettingstarted.lightbulb.personalTools",1425505872],["ext.gettingstarted.l=
+ightbulb.flyout",1425613060,[932,930,725,939,938]],["ext.gettingstarted.l=
+ightbulb.common",1425613060,[931,92,940,941]],["ext.gettingstarted.loggin=
+g",1425505872,[91,117,135,120]],["ext.gettingstarted.api",1425505872,[117=
+,96]],["ext.gettingstarted.taskToolbar",1425640146,[932,931,727]],["ext.g=
+ettingstarted.return",1425613059,[932,931,727,119,924]],["schema.SignupEx=
+pPageLinkClick",1379009814,[942]],["schema.SignupExpCTAImpression",137900=
+9823,[942]],["schema.SignupExpCTAButtonClick",1379009828,[942]],["schema.=
+TaskRecommendationLightbulbClick",1379478056,[942]],["schema.TaskRecommen=
+dationImpression",1379311026,[942]],["schema.TaskRecommendation",13793111=
+19,[942]],["schema.TaskRecommendationClick",1379311117,[942]],["ext.event=
+Logging",1425505871,[91,122]],["ext.eventLogging.subscriber",1425564006],=
+["ext.eventLogging.jsonSchema",1425505872],[=0A=
+"ext.campaigns",1425505872,[29]],["schema.TimingData",1377299608,[942]],[=
+"schema.DeprecatedUsage",1377950987,[942]],["schema.JQMigrateUsage",13788=
+18247,[942]],["schema.Edit",1381364508,[942]],["ext.wikimediaEvents.depre=
+cate",1425846622],["schema.HttpsSupport",1381482697,[942]],["ext.wikimedi=
+aEvents.statsd",1425911740],["ext.navigationTiming",1425505870,[29,519,52=
+0]],["ext.uls.languagenames",1423761164],["ext.uls.messages",1424896085,[=
+963]],["ext.uls.buttons",1425505872],["ext.uls.displaysettings",142566343=
+6,[966,974,969,100]],["ext.uls.geoclient",1425505872],["ext.uls.ime",1425=
+613057,[974,967,973]],["ext.uls.nojs",1425505869],["ext.uls.init",1425663=
+384,[29,119]],["ext.uls.eventlogger",1425505870,[120,535]],["ext.uls.i18n=
+",1425505872,[972,122]],["ext.uls.inputsettings",1425505872,[959,966]],["=
+ext.uls.interface",1425663012,[969,56,144]],["ext.uls.languagesettings",1=
+425505872,[956,955,967,978]],["ext.uls.preferences",1425505872,[120]],["e=
+xt.uls.compactlinks",1425613058,[974,976,140,189]],=0A=
+["ext.uls.webfonts",1425505872,[961,967]],["ext.uls.webfonts.fonts",13700=
+44800,[971,977,979]],["ext.uls.webfonts.repository",1425505872],["jquery.=
+i18n",1425505872,[142]],["jquery.ime",1425505872],["ext.uls.mediawiki",14=
+25505872,[961,954,955,975]],["jquery.uls",1425505872,[972,977,978]],["jqu=
+ery.uls.compact",1425505872,[975]],["jquery.uls.data",1425505872],["jquer=
+y.uls.grid",1425505872],["jquery.webfonts",1425505872],["ext.uls.pt",1425=
+505872],["ext.uls.interlanguage",1425505870],["rangy.core",1425505872],["=
+globeCoordinate.js",1425505872],["qunit.parameterize",1425505872,[45]],["=
+time.js",1425505872],["time.js.validTimeDefinitions",1425505872,[985]],["=
+util.inherit",1425505872],["dataValues",1425505872],["dataValues.DataValu=
+e",1425505872,[988,987]],["dataValues.values",1425505872,[989,983,985]],[=
+"mw.ext.dataValues",1425505872,[990]],["valueFormatters",1425505872],["va=
+lueFormatters.ValueFormatter",1425505872,[987,992]],["valueFormatters.Val=
+ueFormatterStore",1425505872,[992]],[=0A=
+"valueFormatters.formatters",1425657972,[990,993]],["valueParsers",142550=
+5872],["valueParsers.ValueParser",1425505872,[987,996]],["valueParsers.Va=
+lueParserStore",1425505872,[996]],["valueParsers.parsers",1425505872,[990=
+,997]],["wikibase.datamodel",1370044800,[1004,1007,1011,1016,1017,1018,10=
+19]],["wikibase.datamodel.__namespace",1425505872,[1139]],["wikibase.data=
+model.Claim",1425505872,[1025]],["wikibase.datamodel.ClaimGroup",14255058=
+72,[1005,1009]],["wikibase.datamodel.ClaimGroupSet",1425505872,[1003,1032=
+]],["wikibase.datamodel.ClaimList",1425505872,[1002]],["wikibase.datamode=
+l.Entity",1425505872,[987,1001]],["wikibase.datamodel.EntityId",142550587=
+2,[991,1001]],["wikibase.datamodel.Fingerprint",1425505872,[1015,1031]],[=
+"wikibase.datamodel.Group",1425505872,[1001]],["wikibase.datamodel.Groupa=
+bleCollection",1425505872,[987,1001]],["wikibase.datamodel.Item",14255058=
+72,[1006,1008,1023,1028]],["wikibase.datamodel.List",1425505872,[1010]],[=
+"wikibase.datamodel.Map",1425505872,[1001]],[=0A=
+"wikibase.datamodel.MultiTerm",1425505872,[1001]],["wikibase.datamodel.Mu=
+ltiTermMap",1425505872,[987,1013,1014]],["wikibase.datamodel.Property",14=
+25505872,[1006,1008,1028]],["wikibase.datamodel.PropertyNoValueSnak",1425=
+505872,[987,1024]],["wikibase.datamodel.PropertySomeValueSnak",1425505872=
+,[987,1024]],["wikibase.datamodel.PropertyValueSnak",1425505872,[991,1024=
+]],["wikibase.datamodel.Reference",1425505872,[1025]],["wikibase.datamode=
+l.ReferenceList",1425505872,[1020]],["wikibase.datamodel.SiteLink",142550=
+5872,[1001]],["wikibase.datamodel.SiteLinkSet",1425505872,[1032,1022]],["=
+wikibase.datamodel.Snak",1425505872,[1001]],["wikibase.datamodel.SnakList=
+",1425505872,[1012,1024]],["wikibase.datamodel.Statement",1425505872,[100=
+2,1021]],["wikibase.datamodel.StatementGroup",1425505872,[1009,1029]],["w=
+ikibase.datamodel.StatementGroupSet",1425505872,[1032,1027]],["wikibase.d=
+atamodel.StatementList",1425505872,[1026]],["wikibase.datamodel.Term",142=
+5505872,[1001]],["wikibase.datamodel.TermMap",=0A=
+1425505872,[987,1013,1030]],["wikibase.datamodel.Set",1425505872,[1010]],=
+["wikibase.serialization",1370044800,[1035,1036]],["wikibase.serializatio=
+n.__namespace",1425505872,[1139]],["wikibase.serialization.DeserializerFa=
+ctory",1425505872,[1061,1066]],["wikibase.serialization.SerializerFactory=
+",1425505872,[1039,1042]],["wikibase.serialization.StrategyProvider",1425=
+505872,[1034]],["wikibase.serialization.ClaimGroupSerializer",1425505872,=
+[1003,1040]],["wikibase.serialization.ClaimGroupSetSerializer",1425505872=
+,[1004,1038]],["wikibase.serialization.ClaimListSerializer",1425505872,[1=
+005,1041]],["wikibase.serialization.ClaimSerializer",1425505872,[1002,105=
+3]],["wikibase.serialization.EntitySerializer",1425505872,[1016,1044,1047=
+,1037]],["wikibase.serialization.FingerprintSerializer",1425505872,[1008,=
+1045,1059]],["wikibase.serialization.ItemSerializer",1425505872,[1011,104=
+3,1052,1056]],["wikibase.serialization.MultiTermMapSerializer",1425505872=
+,[1015,1046]],[=0A=
+"wikibase.serialization.MultiTermSerializer",1425505872,[1014,1050]],["wi=
+kibase.serialization.PropertySerializer",1425505872,[1011,1043,1056]],["w=
+ikibase.serialization.ReferenceListSerializer",1425657972,[1021,1049]],["=
+wikibase.serialization.ReferenceSerializer",1425505872,[1020,1053]],["wik=
+ibase.serialization.Serializer",1425505872,[987,1034]],["wikibase.seriali=
+zation.SiteLinkSerializer",1425505872,[1022,1050]],["wikibase.serializati=
+on.SiteLinkSetSerializer",1425505872,[1023,1051]],["wikibase.serializatio=
+n.SnakListSerializer",1425505872,[1025,1054]],["wikibase.serialization.Sn=
+akSerializer",1425505872,[1019,1050]],["wikibase.serialization.StatementG=
+roupSerializer",1425505872,[1027,1057]],["wikibase.serialization.Statemen=
+tGroupSetSerializer",1425505872,[1028,1055]],["wikibase.serialization.Sta=
+tementListSerializer",1425505872,[1029,1058]],["wikibase.serialization.St=
+atementSerializer",1425505872,[1026,1041,1048]],["wikibase.serialization.=
+TermMapSerializer",1425505872,[1031,1060]],[=0A=
+"wikibase.serialization.TermSerializer",1425505872,[1030,1050]],["wikibas=
+e.serialization.ClaimGroupSetDeserializer",1425505872,[1004,1062]],["wiki=
+base.serialization.ClaimGroupDeserializer",1425505872,[1003,1063]],["wiki=
+base.serialization.ClaimListDeserializer",1425505872,[1005,1081]],["wikib=
+ase.serialization.ClaimDeserializer",1425505872,[1002,1076]],["wikibase.s=
+erialization.Deserializer",1425505872,[987,1034]],["wikibase.serializatio=
+n.EntityDeserializer",1425505872,[1068,1071,1037]],["wikibase.serializati=
+on.FingerprintDeserializer",1425505872,[1008,1070,1083]],["wikibase.seria=
+lization.ItemDeserializer",1425505872,[1011,1067,1074,1078]],["wikibase.s=
+erialization.MultiTermDeserializer",1425505872,[1014,1065]],["wikibase.se=
+rialization.MultiTermMapDeserializer",1425505872,[1015,1069]],["wikibase.=
+serialization.PropertyDeserializer",1425505872,[1016,1067,1078]],["wikiba=
+se.serialization.ReferenceListDeserializer",1425505872,[1021,1073]],["wik=
+ibase.serialization.ReferenceDeserializer",=0A=
+1425505872,[1020,1076]],["wikibase.serialization.SiteLinkSetDeserializer"=
+,1425505872,[1023,1075]],["wikibase.serialization.SiteLinkDeserializer",1=
+425505872,[1022,1065]],["wikibase.serialization.SnakListDeserializer",142=
+5657972,[1025,1077]],["wikibase.serialization.SnakDeserializer",142550587=
+2,[1017,1018,1019,1065]],["wikibase.serialization.StatementGroupSetDeseri=
+alizer",1425505872,[1028,1079]],["wikibase.serialization.StatementGroupDe=
+serializer",1425505872,[1027,1080]],["wikibase.serialization.StatementLis=
+tDeserializer",1425505872,[1029,1081]],["wikibase.serialization.Statement=
+Deserializer",1425505872,[1026,1064,1072]],["wikibase.serialization.TermD=
+eserializer",1425505872,[1030,1065]],["wikibase.serialization.TermMapDese=
+rializer",1425505872,[1031,1082]],["wikibase.api.__namespace",1425505872]=
+,["wikibase.api.FormatValueCaller",1425505872,[1089]],["wikibase.api.getL=
+ocationAgnosticMwApi",1425505872,[96,1084]],["wikibase.api.ParseValueCall=
+er",1425505872,[1089]],["wikibase.api.RepoApi",=0A=
+1425505872,[91,1084]],["wikibase.api.RepoApiError",1425613059,[987,1084]]=
+,["jquery.animateWithEvent",1425505872,[1091]],["jquery.AnimationEvent",1=
+425505872,[1096]],["jquery.autocompletestring",1425505872,[1106]],["jquer=
+y.focusAt",1425505872],["jquery.inputautoexpand",1425505872,[1097]],["jqu=
+ery.NativeEventHandler",1425505872],["jquery.PurposedCallbacks",142550587=
+2],["jquery.event.special.eachchange",1425693943,[25]],["jquery.ui.inpute=
+xtender",1425505872,[1090,1097,67,76]],["jquery.ui.listrotator",142550587=
+2,[59]],["jquery.ui.ooMenu",1425661806,[76,1107,987]],["jquery.ui.preview=
+",1425505872,[76]],["jquery.ui.suggester",1425505872,[57,1100,67]],["jque=
+ry.ui.commonssuggester",1425505872,[1102,1109]],["jquery.ui.languagesugge=
+ster",1425505872,[1102]],["jquery.ui.toggler",1425505872,[1090,57,76]],["=
+jquery.util.adaptlettercase",1425505872],["jquery.util.getscrollbarwidth"=
+,1425505872],["util.Extendable",1425657972],["util.highlightSubstring",14=
+25505872],["util.MessageProvider",1425505872],[=0A=
+"util.Notifier",1425505872],["jquery.valueview",1425505872,[1116]],["jque=
+ry.valueview.Expert",1425505872,[1108,1110,1111,987]],["jquery.valueview.=
+ExpertStore",1425505872],["jquery.valueview.experts",1425505872],["jquery=
+.valueview.valueview",1425505872,[989,76,1114,1117,1119,1125,994,998]],["=
+jquery.valueview.ViewState",1425505872],["jquery.valueview.experts.Common=
+sMediaType",1425505872,[1103,1122]],["jquery.valueview.experts.EmptyValue=
+",1425505872,[1113,1115]],["jquery.valueview.experts.GlobeCoordinateInput=
+",1425505872,[983,1128,1130,1131,1132,1122]],["jquery.valueview.experts.M=
+onolingualText",1425505872,[1129,1122]],["jquery.valueview.experts.String=
+Value",1425505872,[1093,1094,1113,1115]],["jquery.valueview.experts.Sugge=
+stedStringValue",1425505872,[1102,1122]],["jquery.valueview.experts.TimeI=
+nput",1425505872,[1127,1128,1130,1131,1132]],["jquery.valueview.experts.U=
+nsupportedValue",1425505872,[1113,1115]],["jquery.valueview.ExpertExtende=
+r",1425505872,[1098,1112]],[=0A=
+"jquery.valueview.ExpertExtender.CalendarHint",1425505872,[1126,985]],["j=
+query.valueview.ExpertExtender.Container",1425505872,[1126]],["jquery.val=
+ueview.ExpertExtender.LanguageSelector",1425505872,[954,1104,1126]],["jqu=
+ery.valueview.ExpertExtender.Listrotator",1425505872,[1099,1126]],["jquer=
+y.valueview.ExpertExtender.Preview",1425505872,[1101,1126]],["jquery.valu=
+eview.ExpertExtender.Toggler",1425505872,[1105,1126]],["dataTypes.DataTyp=
+e",1425657972],["dataTypes.DataTypeStore",1425505872],["dependencies",137=
+0044800],["mw.config.values.wbSiteDetails",1424816442],["mw.config.values=
+.wbRepo",1370044800],["wikibase.common",1425505872],["wikibase",142561305=
+6],["wikibase.Site",1425505872,[974,987,1139]],["wikibase.sites",14255058=
+72,[1136,1140]],["wikibase.RepoApi",1425505872,[1139,1088]],["wikibase.Re=
+poApiError",1425505872,[1139,1089]],["jquery.wikibase.aliasesview",142586=
+0181,[1094,"jquery.ui.EditableTemplatedWidget","jquery.ui.tagadata","jque=
+ry.util.getDirectionality",1014]],[=0A=
+"jquery.wikibase.badgeselector",1425505872,["jquery.ui.TemplatedWidget",6=
+5,"wikibase.templates"]],["jquery.wikibase.claimgrouplabelscroll",1425505=
+872,[67,76]],["jquery.wikibase.claimgrouplistview",1425505872,[1148]],["j=
+query.wikibase.claimlistview",1425505872,[1166,"wikibase.templates",1200]=
+],["jquery.wikibase.descriptionview",1425505872,[1094,"jquery.ui.Template=
+dWidget","jquery.util.getDirectionality",1030,"wikibase.getLanguageNameBy=
+Code"]],["jquery.wikibase.entityselector",1425505872,[1097,53,1102]],["jq=
+uery.wikibase.entityview",1425505872,[1144,1152,"wikibase.templates"]],["=
+jquery.wikibase.entitytermsview",1425505872,[1153]],["jquery.wikibase.ent=
+itytermsforlanguagelistview",1425657972,[1154]],["jquery.wikibase.entityt=
+ermsforlanguageview",1425793710,[1149,1156,117]],["jquery.wikibase.itemvi=
+ew",1425505872,[1146,1147,1151,1161]],["jquery.wikibase.labelview",142566=
+3469,["jquery.ui.TemplatedWidget","jquery.util.getDirectionality",1030,"w=
+ikibase.getLanguageNameByCode"]],[=0A=
+"jquery.wikibase.listview",1425505872,[1095,"jquery.ui.TemplatedWidget",7=
+6]],["jquery.wikibase.pagesuggester",1425505872,[1102,1109,1141]],["jquer=
+y.wikibase.propertyview",1425505872,[1146,1147,1151]],["jquery.wikibase.r=
+eferenceview",1425657972,["jquery.removeClassByRegex",1165]],["jquery.wik=
+ibase.sitelinkgrouplistview",1425505872,[1162]],["jquery.wikibase.sitelin=
+kgroupview",1425505872,["jquery.sticknode",1163,144]],["jquery.wikibase.s=
+itelinklistview",1425849166,["jquery.ui.EditableTemplatedWidget",1157,116=
+4,1202]],["jquery.wikibase.sitelinkview",1425505872,["jquery.util.EventSi=
+ngletonManager",1145,1158,1198,195,1022]],["jquery.wikibase.snaklistview"=
+,1425657972,[1157,1167]],["jquery.wikibase.statementview",1425505872,["jq=
+uery.ui.EditableTemplatedWidget",65,1160]],["jquery.wikibase.snakview",14=
+25657972,[1095,"jquery.ui.TemplatedWidget",1150,1173,1170,1171,1172,182,1=
+137,1077,1054,1202]],["jquery.wikibase.snakview.variations",1425657972,[1=
+169]],[=0A=
+"jquery.wikibase.snakview.variations.Variation",1425670824,[987]],["jquer=
+y.wikibase.snakview.variations.NoValue",1425505872,[1168,1000]],["jquery.=
+wikibase.snakview.variations.SomeValue",1425505872,[1168,1000]],["jquery.=
+wikibase.snakview.variations.Value",1425505872,[1168,1000]],["jquery.wiki=
+base.snakview.ViewState",1425505872],["jquery.wikibase.addtoolbar",142550=
+5872,[1178]],["jquery.wikibase.edittoolbar",1425505872,[1179,1180,1199,10=
+89]],["jquery.wikibase.movetoolbar",1425505872,[1179,1180]],["jquery.wiki=
+base.removetoolbar",1425505872,[1178]],["jquery.wikibase.singlebuttontool=
+bar",1425505872,[1179,1180]],["jquery.wikibase.toolbar",1425505872,[1181]=
+],["jquery.wikibase.toolbarbutton",1425505872,[1181]],["jquery.wikibase.t=
+oolbaritem",1425505872,["jquery.ui.TemplatedWidget"]],["jquery.wikibase.t=
+oolbarcontroller.definitions.addtoolbar.claimgrouplistview-claimlistview"=
+,1425505872,[1147,1197]],["jquery.wikibase.toolbarcontroller.definitions.=
+addtoolbar.claimlistview-statementview",1425505872,=0A=
+[1148,1197]],["jquery.wikibase.toolbarcontroller.definitions.addtoolbar.r=
+eferenceview-snakview",1425505872,[1160,1197]],["jquery.wikibase.toolbarc=
+ontroller.definitions.addtoolbar.statementview-referenceview",1425505872,=
+[1166,1197]],["jquery.wikibase.toolbarcontroller.definitions.addtoolbar.s=
+tatementview-snakview",1425505872,[1166,1197]],["jquery.wikibase.toolbarc=
+ontroller.definitions.edittoolbar.aliasesview",1425505872,[1144,1197]],["=
+jquery.wikibase.toolbarcontroller.definitions.edittoolbar.descriptionview=
+",1425505872,[1149,1197]],["jquery.wikibase.toolbarcontroller.definitions=
+.edittoolbar.entitytermsview",1425505872,[1152,1197]],["jquery.wikibase.t=
+oolbarcontroller.definitions.edittoolbar.labelview",1425505872,[1156,1197=
+,"wikibase.templates"]],["jquery.wikibase.toolbarcontroller.definitions.e=
+dittoolbar.referenceview",1425505872,[1160,1197]],["jquery.wikibase.toolb=
+arcontroller.definitions.edittoolbar.sitelinkgroupview",1425505872,[1162,=
+1197]],[=0A=
+"jquery.wikibase.toolbarcontroller.definitions.edittoolbar.statementview"=
+,1425891690,[1166,1197]],["jquery.wikibase.toolbarcontroller.definitions.=
+removetoolbar.referenceview-snakview",1425505872,[1160,1197]],["jquery.wi=
+kibase.toolbarcontroller.definitions.removetoolbar.sitelinkgroupview-site=
+linkview",1425505872,[1162,1197]],["jquery.wikibase.toolbarcontroller.def=
+initions.removetoolbar.statementview-snakview",1425505872,[1166,1197]],["=
+jquery.wikibase.toolbarcontroller",1425505872,[1174,1175,1176,1177]],["jq=
+uery.wikibase.siteselector",1425505872,[1097,1102,1109]],["jquery.wikibas=
+e.wbtooltip",1425505872,[1202]],["wikibase.utilities.ClaimGuidGenerator",=
+1425505872,[1201]],["wikibase.utilities.GuidGenerator",1425505872,[1202]]=
+,["wikibase.utilities",1425613058,[56,1105,140,987,1139]],["wikibase.clie=
+nt.getMwApiForRepo",1425552342,[1137,1086]],["wikibase.client.init",14255=
+05869],["wikibase.client.nolanglinks",1425505869],["wikibase.client.curre=
+ntSite",1370044800],["wikibase.client.page-move",=0A=
+1425505872],["wikibase.client.changeslist.css",1425505872],["wikibase.cli=
+ent.linkitem.init",1425613059,[47,113]],["wikibase.client.PageConnector",=
+1425505872,[1141]],["jquery.wikibase.linkitem",1425613059,[47,62,1198,119=
+9,96,144,1088,1089,1210,1206]],["ext.TemplateSandbox",1425783140],["ext.M=
+WOAuth.BasicStyles",1425505872],["ext.MWOAuth.AuthorizeForm",1425505872],=
+["ext.MWOAuth.AuthorizeDialog",1425613059,[62]],["ext.checkUser",14255058=
+72,[122]],["mw.PopUpMediaTransform",1425761007,[117,475]],["mw.TMHGallery=
+Hook.js",1425505872],["embedPlayerIframeStyle",1425505872],["ext.tmh.tran=
+scodetable",1425613058,[98,475]],["mw.MediaWikiPlayerSupport",1425505872,=
+[491]],["ext.centralauth.globalrenamerequest",1425613060,[195]],["ext.cen=
+tralauth.globalrenamequeue",1425505872],["ext.wikimediaBadges",1425930636=
+],["skins.vector.compactPersonalBar.schema",1377873928,[942]],["mobile.lo=
+ggingSchemas",1425505872,[752,753,532,530,533,534,529,531]],["schema.Echo=
+",1377776116,[942]],["schema.EchoMail",1375512450,[=0A=
+942]],["schema.EchoInteraction",1375827087,[942]]]);mw.config.set({"wgLoa=
+dScript":"//bits.wikimedia.org/en.wikipedia.org/load.php","debug":false,"=
+skin":"vector","stylepath":"//bits.wikimedia.org/static-1.25wmf19/skins",=
+"wgUrlProtocols":"bitcoin\\:|ftp\\:\\/\\/|ftps\\:\\/\\/|geo\\:|git\\:\\/\=
+\/|gopher\\:\\/\\/|http\\:\\/\\/|https\\:\\/\\/|irc\\:\\/\\/|ircs\\:\\/\\=
+/|magnet\\:|mailto\\:|mms\\:\\/\\/|news\\:|nntp\\:\\/\\/|redis\\:\\/\\/|s=
+ftp\\:\\/\\/|sip\\:|sips\\:|sms\\:|ssh\\:\\/\\/|svn\\:\\/\\/|tel\\:|telne=
+t\\:\\/\\/|urn\\:|worldwind\\:\\/\\/|xmpp\\:|\\/\\/","wgArticlePath":"/wi=
+ki/$1","wgScriptPath":"/w","wgScriptExtension":".php","wgScript":"/w/inde=
+x.php","wgSearchType":"CirrusSearch","wgVariantArticlePath":false,"wgActi=
+onPaths":{},"wgServer":"//en.wikipedia.org","wgServerName":"en.wikipedia.=
+org","wgUserLanguage":"en","wgContentLanguage":"en","wgVersion":"1.25wmf1=
+9","wgEnableAPI":true,"wgEnableWriteAPI":true,"wgMainPageTitle":"Main =
+Page","wgFormattedNamespaces":{"-2":"Media","-1":=0A=
+"Special","0":"","1":"Talk","2":"User","3":"User =
+talk","4":"Wikipedia","5":"Wikipedia talk","6":"File","7":"File =
+talk","8":"MediaWiki","9":"MediaWiki =
+talk","10":"Template","11":"Template talk","12":"Help","13":"Help =
+talk","14":"Category","15":"Category talk","100":"Portal","101":"Portal =
+talk","108":"Book","109":"Book talk","118":"Draft","119":"Draft =
+talk","446":"Education Program","447":"Education Program =
+talk","710":"TimedText","711":"TimedText =
+talk","828":"Module","829":"Module =
+talk","2600":"Topic"},"wgNamespaceIds":{"media":-2,"special":-1,"":0,"tal=
+k":1,"user":2,"user_talk":3,"wikipedia":4,"wikipedia_talk":5,"file":6,"fi=
+le_talk":7,"mediawiki":8,"mediawiki_talk":9,"template":10,"template_talk"=
+:11,"help":12,"help_talk":13,"category":14,"category_talk":15,"portal":10=
+0,"portal_talk":101,"book":108,"book_talk":109,"draft":118,"draft_talk":1=
+19,"education_program":446,"education_program_talk":447,"timedtext":710,"=
+timedtext_talk":711,"module":828,"module_talk":829,"topic":2600,"wp":4,"w=
+t":5=0A=
+,"image":6,"image_talk":7,"project":4,"project_talk":5},"wgContentNamespa=
+ces":[0],"wgSiteName":"Wikipedia","wgDBname":"enwiki","wgAvailableSkins":=
+{"vector":"Vector","monobook":"MonoBook","modern":"Modern","cologneblue":=
+"CologneBlue","minerva":"Minerva","fallback":"Fallback","apioutput":"ApiO=
+utput"},"wgExtensionAssetsPath":"//bits.wikimedia.org/static-1.25wmf19/ex=
+tensions","wgCookiePrefix":"enwiki","wgCookieDomain":"","wgCookiePath":"/=
+","wgCookieExpiration":2592000,"wgResourceLoaderMaxQueryLength":-1,"wgCas=
+eSensitiveNamespaces":[],"wgLegalTitleChars":" =
+%!\"$\u0026'()*,\\-./0-9:;=3D?@A-Z\\\\\\^_`a-z~+\\u0080-\\uFFFF","wgResou=
+rceLoaderStorageVersion":1,"wgResourceLoaderStorageEnabled":true,"EmbedPl=
+ayer.DirectFileLinkWarning":true,"EmbedPlayer.EnableOptionsMenu":true,"Em=
+bedPlayer.DisableJava":false,"EmbedPlayer.DisableHTML5FlashFallback":true=
+,"TimedText.ShowInterface":"always","TimedText.ShowAddTextLink":true,"Emb=
+edPlayer.WebPath":=0A=
+"//bits.wikimedia.org/static-1.25wmf19/extensions/TimedMediaHandler/MwEmb=
+edModules/EmbedPlayer","wgCortadoJarFile":false,"AjaxRequestTimeout":30,"=
+MediaWiki.DefaultProvider":"local","MediaWiki.ApiProviders":{"wikimediaco=
+mmons":{"url":"//commons.wikimedia.org/w/api.php"}},"MediaWiki.ApiPostAct=
+ions":["login","purge","rollback","delete","undelete","protect","block","=
+unblock","move","edit","upload","emailuser","import","userrights"],"Embed=
+Player.OverlayControls":true,"EmbedPlayer.CodecPreference":["webm","h264"=
+,"ogg"],"EmbedPlayer.DisableVideoTagSupport":false,"EmbedPlayer.ReplaceSo=
+urces":null,"EmbedPlayer.EnableFlavorSelector":false,"EmbedPlayer.EnableI=
+padHTMLControls":true,"EmbedPlayer.WebKitPlaysInline":false,"EmbedPlayer.=
+EnableIpadNativeFullscreen":false,"EmbedPlayer.iPhoneShowHTMLPlayScreen":=
+true,"EmbedPlayer.ForceLargeReplayButton":false,"EmbedPlayer.LibraryPage"=
+:"http://www.kaltura.org/project/HTML5_Video_Media_JavaScript_Library","E=
+mbedPlayer.RewriteSelector":"video,audio,playlist",=0A=
+"EmbedPlayer.DefaultSize":"400x300","EmbedPlayer.ControlsHeight":31,"Embe=
+dPlayer.TimeDisplayWidth":85,"EmbedPlayer.KalturaAttribution":true,"Embed=
+Player.AttributionButton":{"title":"Kaltura html5 video =
+library","href":"http://www.kaltura.com","class":"kaltura-icon","style":[=
+],"iconurl":false},"EmbedPlayer.EnableRightClick":true,"EmbedPlayer.Enabl=
+edOptionsMenuItems":["playerSelect","download","share","aboutPlayerLibrar=
+y"],"EmbedPlayer.WaitForMeta":true,"EmbedPlayer.ShowNativeWarning":true,"=
+EmbedPlayer.ShowPlayerAlerts":true,"EmbedPlayer.EnableFullscreen":true,"E=
+mbedPlayer.EnableTimeDisplay":true,"EmbedPlayer.EnableVolumeControl":true=
+,"EmbedPlayer.NewWindowFullscreen":false,"EmbedPlayer.FullscreenTip":true=
+,"EmbedPlayer.FirefoxLink":"http://www.mozilla.com/en-US/firefox/upgrade.=
+html?from=3DmwEmbed","EmbedPlayer.NativeControls":false,"EmbedPlayer.Nati=
+veControlsMobileSafari":true,"EmbedPlayer.FullScreenZIndex":999998,"Embed=
+Player.ShareEmbedMode":"iframe","EmbedPlayer.SkinList":["mvpcf",=0A=
+"kskin"],"EmbedPlayer.DefaultSkin":"mvpcf","EmbedPlayer.MonitorRate":250,=
+"EmbedPlayer.UseFlashOnAndroid":false,"EmbedPlayer.EnableURLTimeEncoding"=
+:"flash","EmbedPLayer.IFramePlayer.DomainWhiteList":"*","EmbedPlayer.Enab=
+leIframeApi":true,"EmbedPlayer.PageDomainIframe":true,"EmbedPlayer.NotPla=
+yableDownloadLink":true,"EmbedPlayer.BlackPixel":"data:image/png,%89PNG%0=
+D%0A%1A%0A%00%00%00%0DIHDR%00%00%00%01%00%00%00%01%08%02%00%00%00%90wS%DE=
+%00%00%00%01sRGB%00%AE%CE%1C%E9%00%00%00%09pHYs%00%00%0B%13%00%00%0B%13%0=
+1%00%9A%9C%18%00%00%00%07tIME%07%DB%0B%0A%17%041%80%9B%E7%F2%00%00%00%19t=
+EXtComment%00Created%20with%20GIMPW%81%0E%17%00%00%00%0CIDAT%08%D7c%60%60=
+%60%00%00%00%04%00%01'4'%0A%00%00%00%00IEND%AEB%60%82","TimedText.ShowReq=
+uestTranscript":false,"TimedText.NeedsTranscriptCategory":"Videos =
+needing =
+subtitles","TimedText.BottomPadding":10,"TimedText.BelowVideoBlackBoxHeig=
+ht":40,"wgCentralAuthCheckLoggedInURL":=0A=
+"//login.wikimedia.org/wiki/Special:CentralAutoLogin/checkLoggedIn?type=3D=
+script\u0026wikiid=3Denwiki","wgWikiEditorMagicWords":{"redirect":"#REDIR=
+ECT","img_right":"right","img_left":"left","img_none":"none","img_center"=
+:"center","img_thumbnail":"thumbnail","img_framed":"framed","img_frameles=
+s":"frameless"},"wgMultimediaViewer":{"infoLink":"//mediawiki.org/wiki/Sp=
+ecial:MyLanguage/Extension:Media_Viewer/About","discussionLink":"//mediaw=
+iki.org/wiki/Special:MyLanguage/Extension_talk:Media_Viewer/About","helpL=
+ink":"//mediawiki.org/wiki/Special:MyLanguage/Help:Extension:Media_Viewer=
+","useThumbnailGuessing":true,"durationSamplingFactor":1000,"durationSamp=
+lingFactorLoggedin":false,"networkPerformanceSamplingFactor":1000,"action=
+LoggingSamplingFactorMap":{"default":10,"close":4000,"defullscreen":45,"d=
+ownload":40,"download-close":240,"download-open":320,"embed-select-menu-h=
+tml-original":30,"enlarge":40,"file-description-page-abovefold":30,"fulls=
+creen":80,"hash-load":400,"history-navigation":1600,=0A=
+"image-view":10000,"metadata-close":160,"metadata-open":70,"metadata-scro=
+ll-close":535,"metadata-scroll-open":645,"next-image":2500,"prev-image":1=
+000,"right-click-image":340,"thumbnail":5000,"view-original-file":523},"a=
+ttributionSamplingFactor":1000,"dimensionSamplingFactor":1000,"imageQuery=
+Parameter":false,"recordViewDuration":false,"tooltipDelay":1000},"wgMedia=
+Viewer":true,"wgMediaViewerIsInBeta":false,"wgImageMetrics":{"samplingFac=
+tor":{"image":1000,"imageLoggedin":10,"cors":1000}},"wgVisualEditorConfig=
+":{"disableForAnons":false,"preferenceModules":{"visualeditor-enable-expe=
+rimental":"ext.visualEditor.experimental","visualeditor-enable-language":=
+"ext.visualEditor.language"},"namespaces":[0,2,100,108,118,2,6,12,14],"pl=
+uginModules":["ext.math.visualEditor","ext.disambiguator.visualEditor"],"=
+defaultUserOptions":{"defaultthumbsize":220},"blacklist":{"msie":[["\u003=
+C=3D",9]],"android":[["\u003C",3]],"firefox":[["\u003C=3D",14]],"safari":=
+[["\u003C=3D",6]],"opera":[["\u003C",12]],"blackberry":=0A=
+null,"silk":null},"skins":["vector","apex","monobook","minerva"],"tabPosi=
+tion":"after","tabMessages":{"edit":null,"editsource":"visualeditor-ca-ed=
+itsource","create":null,"createsource":"visualeditor-ca-createsource","ed=
+itlocaldescriptionsource":"visualeditor-ca-editlocaldescriptionsource","c=
+reatelocaldescriptionsource":"visualeditor-ca-createlocaldescriptionsourc=
+e","editsection":null,"editsectionsource":"visualeditor-ca-editsource-sec=
+tion","editappendix":"visualeditor-beta-appendix","editsourceappendix":nu=
+ll,"createappendix":"visualeditor-beta-appendix","createsourceappendix":n=
+ull,"editsectionappendix":"visualeditor-beta-appendix","editsectionsource=
+appendix":null},"showBetaWelcome":true,"enableTocWidget":false,"svgMaxSiz=
+e":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,=
+"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":tr=
+ue,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":=
+true,"105":true,"106":true,"107":true,"108":true,=0A=
+"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":=
+false,"828":true,"829":true}},"wgGuidedTourHelpGuiderUrl":"Help:Guided =
+tours/guider","wgMFNearbyEndpoint":"","wgMFThumbnailSizes":{"tiny":80,"sm=
+all":150,"medium":300},"wgMFContentNamespace":0,"wgMFLicenseLink":"\u003C=
+a href=3D\"https://creativecommons.org/licenses/by-sa/3.0/\" =
+title=3D\"Definition of the Creative Commons Attribution-ShareAlike =
+License\" target=3D\"_blank\"\u003ECC BY-SA 3.0\u003C/a\u003E and =
+\u003Ca href=3D\"https://www.gnu.org/licenses/fdl.html\" =
+title=3D\"Definition of the GFDL\" =
+target=3D\"_blank\"\u003EGFDL\u003C/a\u003E","wgMFUploadLicenseLink":"\u0=
+03Ca class=3D\"external\" rel=3D\"nofollow\" =
+href=3D\"//creativecommons.org/licenses/by-sa/3.0/\"\u003ECC BY-SA =
+3.0\u003C/a\u003E","wgPageTriageCurationModules":{"articleInfo":{"helplin=
+k":"//en.wikipedia.org/wiki/Wikipedia:Page_Curation/Help#PageInfo","names=
+pace":[0,2]},"wikiLove":{"helplink":"//en.wikipedia.org/wiki/Wikipedia:Pa=
+ge_Curation/Help#WikiLove",=0A=
+"namespace":[0,2]},"mark":{"helplink":"//en.wikipedia.org/wiki/Wikipedia:=
+Page_Curation/Help#MarkReviewed","namespace":[0,2],"note":[0]},"tags":{"h=
+elplink":"//en.wikipedia.org/wiki/Wikipedia:Page_Curation/Help#AddTags","=
+namespace":[0]},"delete":{"helplink":"//en.wikipedia.org/wiki/Wikipedia:P=
+age_Curation/Help#MarkDeletion","namespace":[0,2]}},"wgPageTriageNamespac=
+es":[0,2],"wgTalkPageNoteTemplate":{"Mark":"Reviewednote-NPF","UnMark":{"=
+note":"Unreviewednote-NPF","nonote":"Unreviewednonote-NPF"},"Tags":"Tagge=
+dnote-NPF"},"wgFlowEditorList":["none"],"wgFlowMaxTopicLength":260,"wgGet=
+tingStartedConfig":{"hasCategories":true},"wgEventLoggingBaseUri":"//bits=
+.wikimedia.org/event.gif","wgHttpsFeatureDetectionSamplingFactor":1000,"w=
+gWMEStatsdBaseUri":"//bits.wikimedia.org/statsv","wgNavigationTimingSampl=
+ingFactor":1000,"wgULSIMEEnabled":false,"wgULSWebfontsEnabled":false,"wgU=
+LSPosition":"interlanguage","wgULSAnonCanChangeLanguage":false,"wgULSEven=
+tLogging":true,"wgULSImeSelectors":[=0A=
+"input:not([type])","input[type=3Dtext]","input[type=3Dsearch]","textarea=
+","[contenteditable]"],"wgULSNoImeSelectors":["#wpCaptchaWord",".ve-ce-su=
+rface *",".ace_editor textarea"],"wgULSNoWebfontsSelectors":["#p-lang =
+li.interlanguage-link \u003E =
+a"],"wgULSFontRepositoryBasePath":"//bits.wikimedia.org/static-current/ex=
+tensions/UniversalLanguageSelector/data/fontrepo/fonts/","wgNoticeFundrai=
+singUrl":"https://donate.wikimedia.org/wiki/Special:LandingCheck","wgCent=
+ralPagePath":"//meta.wikimedia.org/w/index.php","wgCentralBannerDispatche=
+r":"/wiki/Special:BannerRandom","wgCentralBannerRecorder":"//meta.wikimed=
+ia.org/w/index.php?title=3DSpecial:RecordImpression","wgCentralNoticeSamp=
+leRate":0.01,"wgNoticeXXCountries":["XX","EU","AP","A1","A2","O1"],"wgNot=
+iceNumberOfBuckets":4,"wgNoticeBucketExpiry":7,"wgNoticeNumberOfControlle=
+rBuckets":2,"wgNoticeCookieDurations":{"close":604800,"donate":21600000},=
+"wgNoticeHideUrls":["//en.wikipedia.org/wiki/Special:HideBanners",=0A=
+"//meta.wikimedia.org/wiki/Special:HideBanners","//commons.wikimedia.org/=
+wiki/Special:HideBanners","//species.wikimedia.org/wiki/Special:HideBanne=
+rs","//en.wikibooks.org/wiki/Special:HideBanners","//en.wikiquote.org/wik=
+i/Special:HideBanners","//en.wikisource.org/wiki/Special:HideBanners","//=
+en.wikinews.org/wiki/Special:HideBanners","//en.wikiversity.org/wiki/Spec=
+ial:HideBanners","//www.mediawiki.org/wiki/Special:HideBanners"],"wgNotic=
+eOldCookieApocalypse":1415491200,"wgCentralNoticeChooseBannerOnClient":tr=
+ue,"wgCentralSelectedBannerDispatcher":"//meta.wikimedia.org/w/index.php?=
+title=3DSpecial:BannerLoader","wgCentralNoticePerCampaignBucketExtension"=
+:30,"wgWikiGrokUIEnable":false,"wgWikiGrokUIEnableForAnons":false,"wgWiki=
+GrokUIEnableOnAllDevices":false});};if(isCompatible()){document.write(=0A=
+"\u003Cscript =
+src=3D\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=3Dfalse\u002=
+6amp;lang=3Den\u0026amp;modules=3Djquery%2Cmediawiki\u0026amp;only=3Dscri=
+pts\u0026amp;skin=3Dvector\u0026amp;version=3D20150304T215111Z\"\u003E\u0=
+03C/script\u003E");};=0A=
+/* cache key: =
+enwiki:resourceloader:filter:minify-js:7:dde2ba7a5c2c5570712d6ca78aa0ab7d=
+ */
+------=_NextPart_000_0069_01D05B41.4549CA10--
