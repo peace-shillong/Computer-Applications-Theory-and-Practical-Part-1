@@ -1,0 +1,46 @@
+r=11
+Property data() As Integer
+Open a console app
+Name: FirstClassApp
+
+Class Circle
+   radius as property  
+   def. constructor   
+   property procedure
+   calculate area
+   calculate circumference
+   calculate diameter
+End Class
+   
+Test the class by having a default object 
+and display teh results of all the methods.
+Ask teh user for his desired radius and change the 
+created objects radius to this value.
+The display the changes of the results of the methods
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
